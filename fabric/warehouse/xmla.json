@@ -1,0 +1,443 @@
+{
+  "name": "{{Dataset_Name}}",
+  "compatibilityLevel": 1606,
+  "model": {
+    "name": "{{Dataset_Name}}",
+    "culture": "en-US",
+    "collation": "Latin1_General_100_BIN2_UTF8",
+    "dataAccessOptions": {
+      "legacyRedirects": true,
+      "returnErrorValuesAsNull": true
+    },
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "sourceQueryCulture": "en-US",
+    "tables": [
+      {
+        "name": "gold_dim_date",
+        "sourceLineageTag": "[atliq_motor].[gold_dim_date]",
+        "columns": [
+          {
+            "name": "date",
+            "dataType": "dateTime",
+            "sourceColumn": "date",
+            "formatString": "General Date",
+            "sourceProviderType": "date",
+            "sourceLineageTag": "date",
+            "summarizeBy": "none",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "fiscal_year",
+            "dataType": "int64",
+            "sourceColumn": "fiscal_year",
+            "formatString": "0",
+            "sourceProviderType": "int",
+            "sourceLineageTag": "fiscal_year",
+            "summarizeBy": "sum",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "quarter",
+            "dataType": "string",
+            "sourceColumn": "quarter",
+            "sourceProviderType": "varchar",
+            "sourceLineageTag": "quarter",
+            "summarizeBy": "none",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          }
+        ],
+        "partitions": [
+          {
+            "name": "{{Partition_Name}}",
+            "mode": "directLake",
+            "source": {
+              "type": "entity",
+              "entityName": "gold_dim_date",
+              "expressionSource": "DatabaseQuery",
+              "schemaName": "atliq_motor"
+            }
+          }
+        ],
+        "annotations": [
+          {
+            "name": "IsTableInBiModel",
+            "value": "False"
+          }
+        ]
+      },
+      {
+        "name": "gold_ev_overall_trend",
+        "sourceLineageTag": "[atliq_motor].[gold_ev_overall_trend]",
+        "columns": [
+          {
+            "name": "fiscal_year",
+            "dataType": "int64",
+            "sourceColumn": "fiscal_year",
+            "formatString": "0",
+            "sourceProviderType": "int",
+            "sourceLineageTag": "fiscal_year",
+            "summarizeBy": "sum",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "quarter",
+            "dataType": "string",
+            "sourceColumn": "quarter",
+            "sourceProviderType": "varchar",
+            "sourceLineageTag": "quarter",
+            "summarizeBy": "none",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "total_ev_sold",
+            "dataType": "int64",
+            "sourceColumn": "total_ev_sold",
+            "formatString": "0",
+            "sourceProviderType": "bigint",
+            "sourceLineageTag": "total_ev_sold",
+            "summarizeBy": "sum",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "total_vehicles",
+            "dataType": "int64",
+            "sourceColumn": "total_vehicles",
+            "formatString": "0",
+            "sourceProviderType": "bigint",
+            "sourceLineageTag": "total_vehicles",
+            "summarizeBy": "sum",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "ev_penetration_rate",
+            "dataType": "double",
+            "sourceColumn": "ev_penetration_rate",
+            "sourceProviderType": "float",
+            "sourceLineageTag": "ev_penetration_rate",
+            "summarizeBy": "sum",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              },
+              {
+                "name": "PBI_FormatHint",
+                "value": "{\"isGeneralNumber\":true}"
+              }
+            ]
+          }
+        ],
+        "partitions": [
+          {
+            "name": "{{Partition_Name}}",
+            "mode": "directLake",
+            "source": {
+              "type": "entity",
+              "entityName": "gold_ev_overall_trend",
+              "expressionSource": "DatabaseQuery",
+              "schemaName": "atliq_motor"
+            }
+          }
+        ],
+        "annotations": [
+          {
+            "name": "IsTableInBiModel",
+            "value": "False"
+          }
+        ]
+      },
+      {
+        "name": "gold_ev_sales_by_maker",
+        "sourceLineageTag": "[atliq_motor].[gold_ev_sales_by_maker]",
+        "columns": [
+          {
+            "name": "fiscal_year",
+            "dataType": "int64",
+            "sourceColumn": "fiscal_year",
+            "formatString": "0",
+            "sourceProviderType": "int",
+            "sourceLineageTag": "fiscal_year",
+            "summarizeBy": "sum",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "quarter",
+            "dataType": "string",
+            "sourceColumn": "quarter",
+            "sourceProviderType": "varchar",
+            "sourceLineageTag": "quarter",
+            "summarizeBy": "none",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "maker",
+            "dataType": "string",
+            "sourceColumn": "maker",
+            "sourceProviderType": "varchar",
+            "sourceLineageTag": "maker",
+            "summarizeBy": "none",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "vehicle_category",
+            "dataType": "string",
+            "sourceColumn": "vehicle_category",
+            "sourceProviderType": "varchar",
+            "sourceLineageTag": "vehicle_category",
+            "summarizeBy": "none",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "total_ev_sold",
+            "dataType": "int64",
+            "sourceColumn": "total_ev_sold",
+            "formatString": "0",
+            "sourceProviderType": "bigint",
+            "sourceLineageTag": "total_ev_sold",
+            "summarizeBy": "sum",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          }
+        ],
+        "partitions": [
+          {
+            "name": "{{Partition_Name}}",
+            "mode": "directLake",
+            "source": {
+              "type": "entity",
+              "entityName": "gold_ev_sales_by_maker",
+              "expressionSource": "DatabaseQuery",
+              "schemaName": "atliq_motor"
+            }
+          }
+        ],
+        "annotations": [
+          {
+            "name": "IsTableInBiModel",
+            "value": "False"
+          }
+        ]
+      },
+      {
+        "name": "gold_ev_sales_by_state",
+        "sourceLineageTag": "[atliq_motor].[gold_ev_sales_by_state]",
+        "columns": [
+          {
+            "name": "fiscal_year",
+            "dataType": "int64",
+            "sourceColumn": "fiscal_year",
+            "formatString": "0",
+            "sourceProviderType": "int",
+            "sourceLineageTag": "fiscal_year",
+            "summarizeBy": "sum",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "quarter",
+            "dataType": "string",
+            "sourceColumn": "quarter",
+            "sourceProviderType": "varchar",
+            "sourceLineageTag": "quarter",
+            "summarizeBy": "none",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "state",
+            "dataType": "string",
+            "sourceColumn": "state",
+            "sourceProviderType": "varchar",
+            "sourceLineageTag": "state",
+            "summarizeBy": "none",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "vehicle_category",
+            "dataType": "string",
+            "sourceColumn": "vehicle_category",
+            "sourceProviderType": "varchar",
+            "sourceLineageTag": "vehicle_category",
+            "summarizeBy": "none",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "total_ev_sold",
+            "dataType": "int64",
+            "sourceColumn": "total_ev_sold",
+            "formatString": "0",
+            "sourceProviderType": "bigint",
+            "sourceLineageTag": "total_ev_sold",
+            "summarizeBy": "sum",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "total_vehicles",
+            "dataType": "int64",
+            "sourceColumn": "total_vehicles",
+            "formatString": "0",
+            "sourceProviderType": "bigint",
+            "sourceLineageTag": "total_vehicles",
+            "summarizeBy": "sum",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          },
+          {
+            "name": "ev_penetration_rate",
+            "dataType": "double",
+            "sourceColumn": "ev_penetration_rate",
+            "sourceProviderType": "float",
+            "sourceLineageTag": "ev_penetration_rate",
+            "summarizeBy": "sum",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              },
+              {
+                "name": "PBI_FormatHint",
+                "value": "{\"isGeneralNumber\":true}"
+              }
+            ]
+          },
+          {
+            "name": "date",
+            "dataType": "dateTime",
+            "sourceColumn": "date",
+            "formatString": "General Date",
+            "sourceProviderType": "date",
+            "sourceLineageTag": "date",
+            "summarizeBy": "none",
+            "annotations": [
+              {
+                "name": "SummarizationSetBy",
+                "value": "Automatic"
+              }
+            ]
+          }
+        ],
+        "partitions": [
+          {
+            "name": "{{Partition_Name}}",
+            "mode": "directLake",
+            "source": {
+              "type": "entity",
+              "entityName": "gold_ev_sales_by_state",
+              "expressionSource": "DatabaseQuery",
+              "schemaName": "atliq_motor"
+            }
+          }
+        ],
+        "annotations": [
+          {
+            "name": "IsTableInBiModel",
+            "value": "False"
+          }
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "name": "DatabaseQuery",
+        "kind": "m",
+        "expression": "let\n    database = {{TDS_Endpoint}}\nin\n    database\n"
+      }
+    ],
+    "annotations": [
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "0"
+      },
+      {
+        "name": "SourceLineageTagType",
+        "value": "DatabaseFullyQualifiedName"
+      }
+    ]
+  }
+}
