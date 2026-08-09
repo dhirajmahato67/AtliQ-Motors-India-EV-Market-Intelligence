@@ -1,0 +1,1001 @@
+state,quarter,total_vehicles,date,vehicle_category,fiscal_year,ev_penetration_rate,total_ev_sold
+Andaman & Nicobar Island,Q3,70,2021-10-01,4-Wheelers,2022,1.43,1
+Haryana,Q1,4373,2021-05-01,4-Wheelers,2022,0.02,1
+Meghalaya,Q1,88,2021-05-01,4-Wheelers,2022,1.14,1
+DNH and DD,Q3,938,2021-11-01,2-Wheelers,2022,0.11,1
+Andaman & Nicobar Island,Q3,122,2021-12-01,4-Wheelers,2022,0.82,1
+Madhya Pradesh,Q1,6302,2021-05-01,2-Wheelers,2022,0.02,1
+DNH and DD,Q3,628,2021-10-01,2-Wheelers,2022,0.16,1
+DNH and DD,Q1,657,2021-04-01,2-Wheelers,2022,0.15,1
+Chandigarh,Q1,413,2021-05-01,4-Wheelers,2022,0.24,1
+Himachal Pradesh,Q3,4105,2021-12-01,4-Wheelers,2022,0.02,1
+Himachal Pradesh,Q3,3201,2021-10-01,4-Wheelers,2022,0.03,1
+Andaman & Nicobar Island,Q2,110,2021-08-01,4-Wheelers,2022,0.91,1
+Himachal Pradesh,Q1,3193,2021-06-01,4-Wheelers,2022,0.03,1
+Jammu and Kashmir,Q2,3773,2021-09-01,4-Wheelers,2022,0.03,1
+Meghalaya,Q1,930,2021-04-01,4-Wheelers,2022,0.11,1
+DNH and DD,Q4,354,2022-02-01,4-Wheelers,2022,0.28,1
+Jammu and Kashmir,Q2,5336,2021-07-01,4-Wheelers,2022,0.02,1
+Assam,Q1,3842,2021-06-01,4-Wheelers,2022,0.03,1
+Meghalaya,Q2,759,2021-07-01,4-Wheelers,2022,0.13,1
+Tripura,Q1,1523,2021-06-01,2-Wheelers,2022,0.07,1
+Tripura,Q3,3579,2021-12-01,2-Wheelers,2022,0.03,1
+DNH and DD,Q4,355,2022-03-01,4-Wheelers,2022,0.28,1
+Puducherry,Q2,837,2021-08-01,4-Wheelers,2022,0.12,1
+Himachal Pradesh,Q1,1503,2021-05-01,4-Wheelers,2022,0.07,1
+Himachal Pradesh,Q2,3379,2021-09-01,4-Wheelers,2022,0.03,1
+DNH and DD,Q3,336,2021-12-01,4-Wheelers,2022,0.3,1
+Jammu and Kashmir,Q1,4469,2021-06-01,4-Wheelers,2022,0.02,1
+Meghalaya,Q4,917,2022-02-01,4-Wheelers,2022,0.11,1
+DNH and DD,Q2,666,2021-09-01,2-Wheelers,2022,0.15,1
+Puducherry,Q3,532,2021-11-01,4-Wheelers,2022,0.19,1
+Nagaland,Q2,578,2021-09-01,2-Wheelers,2022,0.17,1
+DNH and DD,Q3,333,2021-10-01,4-Wheelers,2022,0.3,1
+DNH and DD,Q1,234,2021-06-01,4-Wheelers,2022,0.43,1
+Jharkhand,Q1,2290,2021-05-01,4-Wheelers,2022,0.04,1
+Himachal Pradesh,Q1,3544,2021-04-01,4-Wheelers,2022,0.03,1
+Goa,Q2,982,2021-07-01,4-Wheelers,2022,1.02,10
+Chhattisgarh,Q3,5255,2021-10-01,4-Wheelers,2022,0.21,11
+Goa,Q4,1160,2022-02-01,4-Wheelers,2022,5.34,62
+Odisha,Q3,5095,2021-11-01,4-Wheelers,2022,0.35,18
+Rajasthan,Q3,12739,2021-12-01,4-Wheelers,2022,0.57,73
+Tamil Nadu,Q2,20865,2021-08-01,4-Wheelers,2022,0.42,88
+Goa,Q2,1277,2021-09-01,4-Wheelers,2022,2.66,34
+Uttarakhand,Q2,3760,2021-08-01,4-Wheelers,2022,0.16,6
+Rajasthan,Q2,11035,2021-09-01,4-Wheelers,2022,0.63,69
+Kerala,Q4,14575,2022-02-01,4-Wheelers,2022,2.24,327
+Maharashtra,Q3,29346,2021-12-01,4-Wheelers,2022,4.74,1392
+Kerala,Q3,15244,2021-11-01,4-Wheelers,2022,1.4,214
+Madhya Pradesh,Q4,11325,2022-01-01,4-Wheelers,2022,0.22,25
+Maharashtra,Q1,13528,2021-05-01,4-Wheelers,2022,0.89,121
+Uttar Pradesh,Q2,27999,2021-07-01,4-Wheelers,2022,0.03,8
+Goa,Q4,1474,2022-03-01,4-Wheelers,2022,6.17,91
+Andhra Pradesh,Q1,7837,2021-04-01,4-Wheelers,2022,0.33,26
+Delhi,Q1,12914,2021-06-01,4-Wheelers,2022,1.15,148
+Karnataka,Q2,21407,2021-09-01,4-Wheelers,2022,1.06,227
+West Bengal,Q3,7120,2021-10-01,4-Wheelers,2022,0.46,33
+Karnataka,Q4,22167,2022-03-01,4-Wheelers,2022,1.04,230
+Karnataka,Q3,17247,2021-11-01,4-Wheelers,2022,0.89,153
+Bihar,Q3,6992,2021-11-01,4-Wheelers,2022,0.16,11
+Andhra Pradesh,Q3,6314,2021-12-01,4-Wheelers,2022,0.49,31
+Maharashtra,Q3,28322,2021-11-01,4-Wheelers,2022,1.82,515
+Gujarat,Q2,24797,2021-09-01,4-Wheelers,2022,0.53,131
+Chhattisgarh,Q4,4667,2022-01-01,4-Wheelers,2022,0.24,11
+Rajasthan,Q4,14811,2022-02-01,4-Wheelers,2022,0.78,116
+West Bengal,Q1,6316,2021-06-01,4-Wheelers,2022,0.28,18
+Madhya Pradesh,Q2,12758,2021-08-01,4-Wheelers,2022,0.2,26
+Chhattisgarh,Q4,4200,2022-03-01,4-Wheelers,2022,0.45,19
+Andaman & Nicobar Island,Q2,176,2021-07-01,4-Wheelers,2022,4.55,8
+Chhattisgarh,Q3,4824,2021-11-01,4-Wheelers,2022,0.29,14
+Rajasthan,Q1,12070,2021-06-01,4-Wheelers,2022,0.28,34
+Madhya Pradesh,Q3,11820,2021-12-01,4-Wheelers,2022,0.25,30
+Bihar,Q4,5658,2022-02-01,4-Wheelers,2022,0.14,8
+Tamil Nadu,Q1,7793,2021-06-01,4-Wheelers,2022,0.54,42
+Andhra Pradesh,Q4,6361,2022-02-01,4-Wheelers,2022,0.68,43
+Karnataka,Q1,8030,2021-06-01,4-Wheelers,2022,0.88,71
+Delhi,Q2,9181,2021-09-01,4-Wheelers,2022,2.89,265
+Tamil Nadu,Q4,20494,2022-01-01,4-Wheelers,2022,0.59,121
+West Bengal,Q4,7968,2022-01-01,4-Wheelers,2022,0.68,54
+Goa,Q1,1442,2021-04-01,4-Wheelers,2022,0.55,8
+Goa,Q1,749,2021-06-01,4-Wheelers,2022,1.87,14
+Maharashtra,Q1,24817,2021-06-01,4-Wheelers,2022,0.77,190
+Chandigarh,Q2,1845,2021-08-01,4-Wheelers,2022,0.49,9
+Uttarakhand,Q4,3820,2022-02-01,4-Wheelers,2022,0.63,24
+Goa,Q3,1293,2021-11-01,4-Wheelers,2022,1.55,20
+Karnataka,Q3,16243,2021-12-01,4-Wheelers,2022,0.94,153
+Gujarat,Q3,23184,2021-10-01,4-Wheelers,2022,0.45,104
+Tamil Nadu,Q3,17001,2021-12-01,4-Wheelers,2022,0.71,121
+Haryana,Q4,18621,2022-03-01,4-Wheelers,2022,0.07,13
+Chandigarh,Q2,1916,2021-07-01,4-Wheelers,2022,0.47,9
+Chhattisgarh,Q2,4350,2021-08-01,4-Wheelers,2022,0.25,11
+Kerala,Q2,22813,2021-08-01,4-Wheelers,2022,0.8,183
+Kerala,Q2,18406,2021-07-01,4-Wheelers,2022,0.76,139
+Uttarakhand,Q1,2728,2021-04-01,4-Wheelers,2022,0.37,10
+Uttar Pradesh,Q3,33774,2021-12-01,4-Wheelers,2022,0.06,21
+Chhattisgarh,Q4,3922,2022-02-01,4-Wheelers,2022,0.51,20
+Maharashtra,Q4,31805,2022-02-01,4-Wheelers,2022,2.85,905
+Chandigarh,Q4,1941,2022-02-01,4-Wheelers,2022,0.57,11
+Maharashtra,Q2,27900,2021-09-01,4-Wheelers,2022,0.53,148
+Andhra Pradesh,Q2,8245,2021-08-01,4-Wheelers,2022,0.95,78
+Delhi,Q2,13177,2021-08-01,4-Wheelers,2022,1.19,157
+Madhya Pradesh,Q2,11756,2021-09-01,4-Wheelers,2022,0.2,23
+Gujarat,Q3,24277,2021-12-01,4-Wheelers,2022,0.67,163
+Andhra Pradesh,Q1,5831,2021-05-01,4-Wheelers,2022,0.27,16
+Goa,Q3,1306,2021-12-01,4-Wheelers,2022,1.45,19
+Rajasthan,Q4,13658,2022-01-01,4-Wheelers,2022,0.67,92
+Madhya Pradesh,Q4,11616,2022-03-01,4-Wheelers,2022,0.3,35
+Odisha,Q4,5023,2022-02-01,4-Wheelers,2022,0.54,27
+West Bengal,Q1,7640,2021-04-01,4-Wheelers,2022,0.31,24
+Kerala,Q3,16994,2021-12-01,4-Wheelers,2022,1.09,186
+Kerala,Q2,22063,2021-09-01,4-Wheelers,2022,0.74,164
+Haryana,Q4,16353,2022-02-01,4-Wheelers,2022,0.17,28
+Delhi,Q4,13385,2022-03-01,4-Wheelers,2022,1.64,220
+Rajasthan,Q1,10647,2021-04-01,4-Wheelers,2022,0.21,22
+Gujarat,Q2,20394,2021-08-01,4-Wheelers,2022,0.41,83
+Delhi,Q3,11782,2021-11-01,4-Wheelers,2022,1.57,185
+Delhi,Q3,12633,2021-12-01,4-Wheelers,2022,2.19,277
+Kerala,Q1,23660,2021-04-01,4-Wheelers,2022,0.56,132
+Madhya Pradesh,Q1,12092,2021-06-01,4-Wheelers,2022,0.11,13
+Andhra Pradesh,Q2,7952,2021-09-01,4-Wheelers,2022,0.49,39
+Kerala,Q4,16628,2022-03-01,4-Wheelers,2022,1.99,331
+Uttarakhand,Q3,3523,2021-10-01,4-Wheelers,2022,0.37,13
+Uttarakhand,Q3,4270,2021-12-01,4-Wheelers,2022,0.89,38
+Uttar Pradesh,Q3,23095,2021-10-01,4-Wheelers,2022,0.04,10
+West Bengal,Q3,8836,2021-11-01,4-Wheelers,2022,0.67,59
+Uttar Pradesh,Q4,28479,2022-02-01,4-Wheelers,2022,0.08,22
+Rajasthan,Q4,13751,2022-03-01,4-Wheelers,2022,0.65,89
+West Bengal,Q4,7395,2022-02-01,4-Wheelers,2022,0.61,45
+Andaman & Nicobar Island,Q1,168,2021-04-01,4-Wheelers,2022,5.36,9
+Karnataka,Q1,16864,2021-04-01,4-Wheelers,2022,0.53,90
+Delhi,Q4,12608,2022-02-01,4-Wheelers,2022,2.36,298
+Goa,Q3,1165,2021-10-01,4-Wheelers,2022,2.4,28
+Delhi,Q2,15033,2021-07-01,4-Wheelers,2022,0.87,131
+Uttarakhand,Q2,3171,2021-09-01,4-Wheelers,2022,0.32,10
+Haryana,Q3,16015,2021-12-01,4-Wheelers,2022,0.07,11
+Karnataka,Q4,17561,2022-02-01,4-Wheelers,2022,1.15,202
+Gujarat,Q2,23792,2021-07-01,4-Wheelers,2022,0.22,53
+West Bengal,Q2,9198,2021-08-01,4-Wheelers,2022,0.3,28
+Gujarat,Q4,26077,2022-03-01,4-Wheelers,2022,0.95,249
+Karnataka,Q2,21640,2021-07-01,4-Wheelers,2022,0.91,196
+Madhya Pradesh,Q4,11274,2022-02-01,4-Wheelers,2022,0.2,22
+Haryana,Q3,11634,2021-10-01,4-Wheelers,2022,0.07,8
+Kerala,Q1,5164,2021-05-01,4-Wheelers,2022,0.93,48
+West Bengal,Q2,9437,2021-09-01,4-Wheelers,2022,0.36,34
+Maharashtra,Q4,39762,2022-03-01,4-Wheelers,2022,5.18,2060
+West Bengal,Q4,8539,2022-03-01,4-Wheelers,2022,0.48,41
+Jharkhand,Q3,5320,2021-11-01,4-Wheelers,2022,0.15,8
+Andhra Pradesh,Q1,6098,2021-06-01,4-Wheelers,2022,0.64,39
+Tamil Nadu,Q3,14796,2021-10-01,4-Wheelers,2022,0.8,119
+Gujarat,Q4,21963,2022-01-01,4-Wheelers,2022,0.44,97
+Madhya Pradesh,Q2,14581,2021-07-01,4-Wheelers,2022,0.12,17
+Madhya Pradesh,Q3,12871,2021-11-01,4-Wheelers,2022,0.24,31
+Haryana,Q2,14524,2021-07-01,4-Wheelers,2022,0.04,6
+Tamil Nadu,Q4,16711,2022-02-01,4-Wheelers,2022,0.81,135
+Maharashtra,Q3,33771,2021-10-01,4-Wheelers,2022,0.88,298
+Chandigarh,Q2,1607,2021-09-01,4-Wheelers,2022,1.24,20
+Odisha,Q3,4634,2021-12-01,4-Wheelers,2022,0.43,20
+Maharashtra,Q2,38063,2021-07-01,4-Wheelers,2022,0.75,286
+Rajasthan,Q2,14374,2021-07-01,4-Wheelers,2022,0.36,52
+Delhi,Q4,13659,2022-01-01,4-Wheelers,2022,2.06,282
+Haryana,Q4,17633,2022-01-01,4-Wheelers,2022,0.15,26
+Tamil Nadu,Q1,18826,2021-04-01,4-Wheelers,2022,0.4,75
+Gujarat,Q1,15959,2021-05-01,4-Wheelers,2022,0.18,29
+Chandigarh,Q3,1919,2021-11-01,4-Wheelers,2022,0.83,16
+Haryana,Q3,16035,2021-11-01,4-Wheelers,2022,0.08,13
+Kerala,Q1,10018,2021-06-01,4-Wheelers,2022,1.4,140
+Andhra Pradesh,Q4,7288,2022-03-01,4-Wheelers,2022,0.75,55
+Gujarat,Q4,24012,2022-02-01,4-Wheelers,2022,0.53,128
+Maharashtra,Q4,35772,2022-01-01,4-Wheelers,2022,0.74,263
+Madhya Pradesh,Q3,9554,2021-10-01,4-Wheelers,2022,0.21,20
+Andhra Pradesh,Q4,8418,2022-01-01,4-Wheelers,2022,0.34,29
+Odisha,Q4,5876,2022-01-01,4-Wheelers,2022,0.46,27
+Chandigarh,Q4,2279,2022-03-01,4-Wheelers,2022,0.61,14
+West Bengal,Q2,8919,2021-07-01,4-Wheelers,2022,0.41,37
+Rajasthan,Q3,16115,2021-11-01,4-Wheelers,2022,0.49,79
+Kerala,Q4,17441,2022-01-01,4-Wheelers,2022,1.22,212
+Uttar Pradesh,Q3,29608,2021-11-01,4-Wheelers,2022,0.03,10
+Delhi,Q3,12876,2021-10-01,4-Wheelers,2022,1.96,253
+Karnataka,Q4,21967,2022-01-01,4-Wheelers,2022,0.95,209
+Gujarat,Q1,19359,2021-06-01,4-Wheelers,2022,0.32,61
+Karnataka,Q2,21975,2021-08-01,4-Wheelers,2022,0.62,137
+Tamil Nadu,Q3,15533,2021-11-01,4-Wheelers,2022,0.7,108
+Rajasthan,Q3,12823,2021-10-01,4-Wheelers,2022,0.67,86
+Andhra Pradesh,Q2,7877,2021-07-01,4-Wheelers,2022,0.46,36
+Tamil Nadu,Q2,18823,2021-09-01,4-Wheelers,2022,0.57,107
+Delhi,Q1,8076,2021-04-01,4-Wheelers,2022,0.76,61
+Rajasthan,Q2,11454,2021-08-01,4-Wheelers,2022,0.46,53
+Karnataka,Q3,18505,2021-10-01,4-Wheelers,2022,0.88,163
+Uttarakhand,Q4,4241,2022-01-01,4-Wheelers,2022,0.71,30
+Uttarakhand,Q2,4182,2021-07-01,4-Wheelers,2022,0.26,11
+Andhra Pradesh,Q3,7374,2021-11-01,4-Wheelers,2022,0.46,34
+Goa,Q4,1185,2022-01-01,4-Wheelers,2022,2.19,26
+West Bengal,Q1,3962,2021-05-01,4-Wheelers,2022,0.15,6
+Punjab,Q3,10624,2021-12-01,4-Wheelers,2022,0.06,6
+West Bengal,Q3,8452,2021-12-01,4-Wheelers,2022,0.46,39
+Tamil Nadu,Q2,20857,2021-07-01,4-Wheelers,2022,0.42,88
+Uttar Pradesh,Q4,32561,2022-01-01,4-Wheelers,2022,0.04,14
+Goa,Q2,1439,2021-08-01,4-Wheelers,2022,1.32,19
+Maharashtra,Q2,35127,2021-08-01,4-Wheelers,2022,0.56,197
+Andhra Pradesh,Q3,7366,2021-10-01,4-Wheelers,2022,0.5,37
+Gujarat,Q1,17386,2021-04-01,4-Wheelers,2022,0.25,44
+Maharashtra,Q1,16829,2021-04-01,4-Wheelers,2022,0.57,96
+Bihar,Q4,5538,2022-01-01,4-Wheelers,2022,0.18,10
+Kerala,Q3,14562,2021-10-01,4-Wheelers,2022,1.09,158
+Tamil Nadu,Q1,3413,2021-05-01,4-Wheelers,2022,0.41,14
+Uttarakhand,Q4,4026,2022-03-01,4-Wheelers,2022,0.5,20
+Gujarat,Q3,22396,2021-11-01,4-Wheelers,2022,0.54,121
+Uttar Pradesh,Q4,29324,2022-03-01,4-Wheelers,2022,0.06,18
+Odisha,Q4,6098,2022-03-01,4-Wheelers,2022,0.51,31
+Tamil Nadu,Q4,20604,2022-03-01,4-Wheelers,2022,0.82,168
+Chandigarh,Q3,1816,2021-10-01,4-Wheelers,2022,0.66,12
+Chhattisgarh,Q2,4916,2021-07-01,4-Wheelers,2022,0.24,12
+Chandigarh,Q3,1985,2021-12-01,4-Wheelers,2022,0.6,12
+Chandigarh,Q1,2050,2021-06-01,4-Wheelers,2022,0.59,12
+Chhattisgarh,Q2,3650,2021-09-01,4-Wheelers,2022,0.33,12
+Jharkhand,Q2,3892,2021-09-01,4-Wheelers,2022,0.31,12
+Uttarakhand,Q3,3954,2021-11-01,4-Wheelers,2022,0.3,12
+Bihar,Q4,6694,2022-03-01,4-Wheelers,2022,0.18,12
+Rajasthan,Q1,2756,2021-05-01,4-Wheelers,2022,0.25,7
+Uttarakhand,Q1,2972,2021-06-01,4-Wheelers,2022,0.24,7
+Haryana,Q2,14879,2021-09-01,4-Wheelers,2022,0.05,7
+Jammu and Kashmir,Q4,4679,2022-02-01,4-Wheelers,2022,0.15,7
+Chandigarh,Q4,1519,2022-01-01,4-Wheelers,2022,0.46,7
+Punjab,Q4,9792,2022-01-01,4-Wheelers,2022,0.07,7
+Bihar,Q3,5031,2021-12-01,4-Wheelers,2022,0.14,7
+Bihar,Q3,5838,2021-10-01,4-Wheelers,2022,0.12,7
+Bihar,Q2,5724,2021-08-01,4-Wheelers,2022,0.12,7
+Chhattisgarh,Q3,3651,2021-12-01,4-Wheelers,2022,0.14,5
+Punjab,Q4,9464,2022-02-01,4-Wheelers,2022,0.05,5
+Jharkhand,Q3,4806,2021-10-01,4-Wheelers,2022,0.1,5
+Odisha,Q1,5101,2021-04-01,4-Wheelers,2022,0.1,5
+Jharkhand,Q4,4345,2022-01-01,4-Wheelers,2022,0.12,5
+Chhattisgarh,Q1,4526,2021-06-01,4-Wheelers,2022,0.11,5
+Punjab,Q3,8523,2021-10-01,4-Wheelers,2022,0.06,5
+Bihar,Q2,5438,2021-07-01,4-Wheelers,2022,0.09,5
+Himachal Pradesh,Q4,3616,2022-02-01,4-Wheelers,2022,0.14,5
+Jharkhand,Q4,5062,2022-03-01,4-Wheelers,2022,0.1,5
+Assam,Q4,7281,2022-03-01,4-Wheelers,2022,0.03,2
+Andaman & Nicobar Island,Q4,108,2022-03-01,4-Wheelers,2022,1.85,2
+Odisha,Q2,4865,2021-09-01,4-Wheelers,2022,0.04,2
+Jammu and Kashmir,Q3,4205,2021-10-01,4-Wheelers,2022,0.05,2
+Assam,Q2,6447,2021-08-01,4-Wheelers,2022,0.03,2
+Puducherry,Q2,640,2021-09-01,4-Wheelers,2022,0.31,2
+Odisha,Q1,3041,2021-06-01,4-Wheelers,2022,0.07,2
+Himachal Pradesh,Q2,3811,2021-07-01,4-Wheelers,2022,0.05,2
+Madhya Pradesh,Q1,5356,2021-04-01,4-Wheelers,2022,0.04,2
+Chandigarh,Q1,1426,2021-04-01,4-Wheelers,2022,0.14,2
+Karnataka,Q1,646,2021-05-01,4-Wheelers,2022,0.31,2
+Puducherry,Q3,608,2021-12-01,4-Wheelers,2022,0.33,2
+Odisha,Q3,5830,2021-10-01,4-Wheelers,2022,0.03,2
+Puducherry,Q1,119,2021-05-01,4-Wheelers,2022,1.68,2
+Bihar,Q1,5731,2021-04-01,4-Wheelers,2022,0.07,4
+Goa,Q1,393,2021-05-01,4-Wheelers,2022,1.02,4
+Odisha,Q2,5453,2021-08-01,4-Wheelers,2022,0.07,4
+Punjab,Q4,10836,2022-03-01,4-Wheelers,2022,0.04,4
+Haryana,Q1,13420,2021-06-01,4-Wheelers,2022,0.03,4
+Uttar Pradesh,Q1,23056,2021-04-01,4-Wheelers,2022,0.02,4
+Jharkhand,Q4,4335,2022-02-01,4-Wheelers,2022,0.09,4
+Jammu and Kashmir,Q4,4854,2022-03-01,4-Wheelers,2022,0.08,4
+Uttar Pradesh,Q2,23510,2021-09-01,4-Wheelers,2022,0.02,4
+Jharkhand,Q1,4405,2021-06-01,4-Wheelers,2022,0.09,4
+Punjab,Q1,8955,2021-04-01,4-Wheelers,2022,0.04,4
+Bihar,Q1,5692,2021-06-01,4-Wheelers,2022,0.07,4
+Jharkhand,Q2,5020,2021-07-01,4-Wheelers,2022,0.08,4
+Punjab,Q2,9209,2021-08-01,4-Wheelers,2022,0.04,4
+Bihar,Q2,4339,2021-09-01,4-Wheelers,2022,0.09,4
+Punjab,Q3,9015,2021-11-01,4-Wheelers,2022,0.03,3
+Puducherry,Q4,817,2022-03-01,4-Wheelers,2022,0.37,3
+Jharkhand,Q1,3425,2021-04-01,4-Wheelers,2022,0.09,3
+Punjab,Q2,9328,2021-07-01,4-Wheelers,2022,0.03,3
+Jharkhand,Q2,5113,2021-08-01,4-Wheelers,2022,0.06,3
+Odisha,Q2,5552,2021-07-01,4-Wheelers,2022,0.05,3
+Assam,Q4,6152,2022-02-01,4-Wheelers,2022,0.05,3
+Punjab,Q1,7126,2021-06-01,4-Wheelers,2022,0.04,3
+Haryana,Q1,15476,2021-04-01,4-Wheelers,2022,0.02,3
+Himachal Pradesh,Q4,3371,2022-03-01,4-Wheelers,2022,0.09,3
+Uttar Pradesh,Q1,25704,2021-06-01,4-Wheelers,2022,0.01,3
+Punjab,Q2,7521,2021-09-01,4-Wheelers,2022,0.04,3
+Uttar Pradesh,Q1,14016,2021-05-01,4-Wheelers,2022,0.02,3
+Uttar Pradesh,Q2,24012,2021-08-01,4-Wheelers,2022,0.01,3
+Assam,Q3,6737,2021-12-01,4-Wheelers,2022,0.04,3
+Haryana,Q2,16027,2021-08-01,4-Wheelers,2022,0.02,3
+Jharkhand,Q3,4258,2021-12-01,4-Wheelers,2022,0.07,3
+Himachal Pradesh,Q4,3090,2022-01-01,4-Wheelers,2022,0.1,3
+Chhattisgarh,Q1,5280,2021-05-01,2-Wheelers,2022,0.11,6
+Manipur,Q3,2098,2021-10-01,2-Wheelers,2022,0.29,6
+West Bengal,Q1,28906,2021-05-01,2-Wheelers,2022,0.02,6
+Ladakh,Q3,18,2021-10-01,2-Wheelers,2022,33.33,6
+Assam,Q1,22586,2021-06-01,2-Wheelers,2022,0.03,6
+Uttarakhand,Q1,2957,2021-05-01,2-Wheelers,2022,0.2,6
+DNH and DD,Q4,758,2022-01-01,2-Wheelers,2022,0.79,6
+Ladakh,Q4,20,2022-01-01,2-Wheelers,2022,30.0,6
+Chandigarh,Q1,1200,2021-04-01,2-Wheelers,2022,0.5,6
+Odisha,Q4,45749,2022-01-01,2-Wheelers,2022,2.91,1333
+Chandigarh,Q3,2083,2021-11-01,2-Wheelers,2022,3.79,79
+Chhattisgarh,Q3,24772,2021-12-01,2-Wheelers,2022,2.02,500
+Jammu and Kashmir,Q3,4076,2021-12-01,2-Wheelers,2022,2.7,110
+Haryana,Q1,7315,2021-05-01,2-Wheelers,2022,0.23,17
+West Bengal,Q2,76665,2021-07-01,2-Wheelers,2022,0.05,36
+Chhattisgarh,Q1,31808,2021-06-01,2-Wheelers,2022,0.43,138
+Tamil Nadu,Q3,83485,2021-12-01,2-Wheelers,2022,3.88,3236
+Uttar Pradesh,Q2,146734,2021-08-01,2-Wheelers,2022,0.36,531
+Kerala,Q4,41273,2022-02-01,2-Wheelers,2022,4.21,1737
+Haryana,Q1,31078,2021-04-01,2-Wheelers,2022,0.32,101
+Assam,Q2,25097,2021-08-01,2-Wheelers,2022,0.1,26
+Chhattisgarh,Q2,27491,2021-08-01,2-Wheelers,2022,0.87,238
+Goa,Q3,3468,2021-12-01,2-Wheelers,2022,4.41,153
+Puducherry,Q3,2589,2021-12-01,2-Wheelers,2022,3.13,81
+Uttarakhand,Q3,12826,2021-10-01,2-Wheelers,2022,1.01,129
+Bihar,Q2,54618,2021-08-01,2-Wheelers,2022,0.35,191
+Chhattisgarh,Q3,63099,2021-11-01,2-Wheelers,2022,0.81,509
+Uttar Pradesh,Q1,264409,2021-06-01,2-Wheelers,2022,0.03,92
+Assam,Q3,28392,2021-12-01,2-Wheelers,2022,0.33,93
+Jammu and Kashmir,Q4,4836,2022-02-01,2-Wheelers,2022,2.09,101
+Kerala,Q2,48245,2021-09-01,2-Wheelers,2022,1.64,789
+Uttarakhand,Q3,20977,2021-11-01,2-Wheelers,2022,1.25,262
+Gujarat,Q4,58107,2022-01-01,2-Wheelers,2022,3.77,2191
+Jharkhand,Q4,24613,2022-01-01,2-Wheelers,2022,0.98,240
+Jharkhand,Q2,26589,2021-08-01,2-Wheelers,2022,0.52,137
+Uttarakhand,Q2,11192,2021-08-01,2-Wheelers,2022,1.02,114
+Tamil Nadu,Q4,124399,2022-01-01,2-Wheelers,2022,3.4,4233
+Uttarakhand,Q4,10413,2022-01-01,2-Wheelers,2022,1.77,184
+Madhya Pradesh,Q4,69322,2022-02-01,2-Wheelers,2022,1.41,974
+Goa,Q3,3914,2021-10-01,2-Wheelers,2022,4.16,163
+Uttar Pradesh,Q4,168934,2022-01-01,2-Wheelers,2022,0.78,1322
+Haryana,Q4,25667,2022-02-01,2-Wheelers,2022,2.64,677
+West Bengal,Q4,56937,2022-02-01,2-Wheelers,2022,0.67,383
+Delhi,Q4,28871,2022-03-01,2-Wheelers,2022,12.09,3491
+Karnataka,Q4,91537,2022-03-01,2-Wheelers,2022,7.96,7288
+Tamil Nadu,Q2,122808,2021-07-01,2-Wheelers,2022,2.28,2801
+Maharashtra,Q4,130070,2022-03-01,2-Wheelers,2022,7.45,9687
+Delhi,Q1,14233,2021-04-01,2-Wheelers,2022,1.91,272
+Assam,Q2,22521,2021-07-01,2-Wheelers,2022,0.1,22
+Puducherry,Q1,314,2021-05-01,2-Wheelers,2022,0.96,3
+Gujarat,Q2,71820,2021-09-01,2-Wheelers,2022,1.34,959
+Maharashtra,Q2,146083,2021-07-01,2-Wheelers,2022,1.44,2101
+Madhya Pradesh,Q3,52075,2021-10-01,2-Wheelers,2022,1.05,545
+Maharashtra,Q4,116043,2022-02-01,2-Wheelers,2022,5.92,6871
+Rajasthan,Q4,60106,2022-03-01,2-Wheelers,2022,5.12,3080
+Bihar,Q3,50679,2021-10-01,2-Wheelers,2022,0.93,470
+Himachal Pradesh,Q3,7398,2021-11-01,2-Wheelers,2022,0.82,61
+Chhattisgarh,Q2,24790,2021-09-01,2-Wheelers,2022,0.98,244
+Andhra Pradesh,Q3,64835,2021-11-01,2-Wheelers,2022,1.72,1114
+Jharkhand,Q1,21680,2021-05-01,2-Wheelers,2022,0.18,39
+Maharashtra,Q4,136937,2022-01-01,2-Wheelers,2022,3.75,5138
+Odisha,Q1,23193,2021-06-01,2-Wheelers,2022,0.63,147
+Goa,Q2,3081,2021-09-01,2-Wheelers,2022,2.82,87
+Tripura,Q4,3043,2022-01-01,2-Wheelers,2022,0.16,5
+Chhattisgarh,Q1,10274,2021-04-01,2-Wheelers,2022,0.35,36
+Uttar Pradesh,Q1,137840,2021-04-01,2-Wheelers,2022,0.12,171
+Uttarakhand,Q4,11692,2022-03-01,2-Wheelers,2022,3.72,435
+Goa,Q1,379,2021-05-01,2-Wheelers,2022,7.12,27
+Rajasthan,Q1,59809,2021-06-01,2-Wheelers,2022,0.86,515
+Himachal Pradesh,Q2,5430,2021-08-01,2-Wheelers,2022,0.59,32
+Madhya Pradesh,Q3,110877,2021-12-01,2-Wheelers,2022,0.81,901
+Rajasthan,Q2,67308,2021-07-01,2-Wheelers,2022,2.05,1378
+Bihar,Q4,85165,2022-03-01,2-Wheelers,2022,1.56,1328
+Chhattisgarh,Q2,30642,2021-07-01,2-Wheelers,2022,0.83,253
+Maharashtra,Q3,131332,2021-10-01,2-Wheelers,2022,2.71,3554
+Goa,Q3,4104,2021-11-01,2-Wheelers,2022,4.34,178
+Tamil Nadu,Q4,108851,2022-02-01,2-Wheelers,2022,4.14,4506
+Andhra Pradesh,Q2,58165,2021-07-01,2-Wheelers,2022,1.39,811
+Assam,Q4,29698,2022-03-01,2-Wheelers,2022,0.6,179
+Punjab,Q4,24506,2022-02-01,2-Wheelers,2022,1.21,296
+Jharkhand,Q3,28877,2021-10-01,2-Wheelers,2022,0.88,253
+Andhra Pradesh,Q4,51588,2022-03-01,2-Wheelers,2022,6.14,3169
+Chhattisgarh,Q4,31244,2022-03-01,2-Wheelers,2022,3.07,959
+Tamil Nadu,Q1,107658,2021-04-01,2-Wheelers,2022,1.2,1297
+Kerala,Q2,52507,2021-08-01,2-Wheelers,2022,1.14,598
+Assam,Q3,32155,2021-10-01,2-Wheelers,2022,0.09,28
+Madhya Pradesh,Q1,29491,2021-04-01,2-Wheelers,2022,0.43,126
+Chhattisgarh,Q4,28508,2022-02-01,2-Wheelers,2022,2.23,635
+Rajasthan,Q1,48828,2021-04-01,2-Wheelers,2022,0.67,325
+Delhi,Q2,17347,2021-09-01,2-Wheelers,2022,4.66,809
+Haryana,Q3,40694,2021-12-01,2-Wheelers,2022,1.65,670
+Jharkhand,Q2,29512,2021-07-01,2-Wheelers,2022,0.37,108
+Punjab,Q2,27376,2021-08-01,2-Wheelers,2022,1.25,342
+Jammu and Kashmir,Q3,8601,2021-10-01,2-Wheelers,2022,2.31,199
+Andhra Pradesh,Q4,59712,2022-01-01,2-Wheelers,2022,2.8,1671
+Uttarakhand,Q2,12268,2021-07-01,2-Wheelers,2022,0.62,76
+Jammu and Kashmir,Q2,7354,2021-09-01,2-Wheelers,2022,2.13,157
+Himachal Pradesh,Q4,3565,2022-03-01,2-Wheelers,2022,1.71,61
+Assam,Q4,26097,2022-01-01,2-Wheelers,2022,0.35,92
+Bihar,Q4,51380,2022-01-01,2-Wheelers,2022,0.8,409
+Himachal Pradesh,Q1,1721,2021-05-01,2-Wheelers,2022,0.23,4
+Jharkhand,Q1,33533,2021-06-01,2-Wheelers,2022,0.13,42
+Delhi,Q2,24955,2021-07-01,2-Wheelers,2022,3.28,818
+Maharashtra,Q1,75098,2021-06-01,2-Wheelers,2022,1.19,891
+Haryana,Q2,30342,2021-08-01,2-Wheelers,2022,1.45,441
+Bihar,Q4,59758,2022-02-01,2-Wheelers,2022,0.83,495
+Jharkhand,Q4,38435,2022-03-01,2-Wheelers,2022,1.58,607
+Odisha,Q1,36953,2021-04-01,2-Wheelers,2022,0.52,191
+Kerala,Q2,41455,2021-07-01,2-Wheelers,2022,1.1,456
+Maharashtra,Q2,92351,2021-09-01,2-Wheelers,2022,2.35,2166
+Uttarakhand,Q1,9766,2021-06-01,2-Wheelers,2022,0.38,37
+Rajasthan,Q3,65626,2021-10-01,2-Wheelers,2022,2.44,1602
+West Bengal,Q3,53475,2021-10-01,2-Wheelers,2022,0.13,67
+West Bengal,Q4,61071,2022-01-01,2-Wheelers,2022,0.61,370
+Tamil Nadu,Q1,17837,2021-05-01,2-Wheelers,2022,1.33,237
+Karnataka,Q2,84001,2021-07-01,2-Wheelers,2022,4.03,3384
+Delhi,Q3,37710,2021-11-01,2-Wheelers,2022,3.37,1269
+Madhya Pradesh,Q4,75043,2022-01-01,2-Wheelers,2022,1.15,862
+Rajasthan,Q4,50153,2022-01-01,2-Wheelers,2022,4.7,2359
+Punjab,Q2,24819,2021-09-01,2-Wheelers,2022,1.96,487
+Himachal Pradesh,Q3,4651,2021-10-01,2-Wheelers,2022,0.62,29
+Haryana,Q3,43957,2021-11-01,2-Wheelers,2022,1.98,871
+West Bengal,Q3,79819,2021-11-01,2-Wheelers,2022,0.39,309
+West Bengal,Q3,73989,2021-12-01,2-Wheelers,2022,0.39,285
+Jharkhand,Q1,26969,2021-04-01,2-Wheelers,2022,0.3,80
+Andhra Pradesh,Q2,58473,2021-08-01,2-Wheelers,2022,1.14,666
+Chandigarh,Q3,1792,2021-10-01,2-Wheelers,2022,1.0,18
+DNH and DD,Q4,817,2022-02-01,2-Wheelers,2022,0.49,4
+Karnataka,Q1,19402,2021-06-01,2-Wheelers,2022,2.89,560
+Chhattisgarh,Q3,33464,2021-10-01,2-Wheelers,2022,0.9,301
+Bihar,Q1,100771,2021-06-01,2-Wheelers,2022,0.07,67
+Punjab,Q3,46549,2021-11-01,2-Wheelers,2022,1.73,803
+Goa,Q1,1533,2021-06-01,2-Wheelers,2022,1.11,17
+Delhi,Q2,26069,2021-08-01,2-Wheelers,2022,3.82,995
+West Bengal,Q1,67354,2021-06-01,2-Wheelers,2022,0.02,12
+Kerala,Q3,42377,2021-10-01,2-Wheelers,2022,1.97,833
+Karnataka,Q4,74134,2022-01-01,2-Wheelers,2022,5.92,4386
+Chandigarh,Q4,1883,2022-03-01,2-Wheelers,2022,2.92,55
+Haryana,Q3,26891,2021-10-01,2-Wheelers,2022,1.88,505
+Karnataka,Q3,83147,2021-12-01,2-Wheelers,2022,5.27,4381
+Delhi,Q4,25413,2022-02-01,2-Wheelers,2022,9.38,2384
+Kerala,Q1,17828,2021-06-01,2-Wheelers,2022,1.03,184
+Assam,Q1,30344,2021-04-01,2-Wheelers,2022,0.02,7
+Haryana,Q1,31957,2021-06-01,2-Wheelers,2022,0.23,74
+Haryana,Q2,24476,2021-07-01,2-Wheelers,2022,0.55,134
+Odisha,Q2,33821,2021-08-01,2-Wheelers,2022,1.43,485
+Kerala,Q3,43718,2021-11-01,2-Wheelers,2022,2.17,948
+Odisha,Q4,41856,2022-02-01,2-Wheelers,2022,3.02,1266
+Tripura,Q4,2705,2022-02-01,2-Wheelers,2022,0.11,3
+Jammu and Kashmir,Q1,1916,2021-05-01,2-Wheelers,2022,2.61,50
+Karnataka,Q2,80292,2021-09-01,2-Wheelers,2022,4.41,3539
+Chhattisgarh,Q4,31989,2022-01-01,2-Wheelers,2022,1.86,595
+Manipur,Q4,4773,2022-02-01,2-Wheelers,2022,0.06,3
+DNH and DD,Q3,1100,2021-12-01,2-Wheelers,2022,0.36,4
+Madhya Pradesh,Q2,65166,2021-09-01,2-Wheelers,2022,0.91,590
+Assam,Q4,25414,2022-02-01,2-Wheelers,2022,0.42,108
+Odisha,Q4,47801,2022-03-01,2-Wheelers,2022,4.94,2363
+Manipur,Q3,3649,2021-12-01,2-Wheelers,2022,0.11,4
+Andhra Pradesh,Q1,63444,2021-04-01,2-Wheelers,2022,0.69,436
+Karnataka,Q4,75612,2022-02-01,2-Wheelers,2022,7.4,5593
+Kerala,Q1,6675,2021-05-01,2-Wheelers,2022,1.42,95
+Puducherry,Q4,3410,2022-02-01,2-Wheelers,2022,3.43,117
+Haryana,Q4,28339,2022-01-01,2-Wheelers,2022,2.11,597
+Karnataka,Q3,74444,2021-11-01,2-Wheelers,2022,4.61,3430
+Chandigarh,Q2,1286,2021-07-01,2-Wheelers,2022,0.86,11
+Puducherry,Q3,2889,2021-11-01,2-Wheelers,2022,1.63,47
+Chandigarh,Q3,1252,2021-12-01,2-Wheelers,2022,2.4,30
+Himachal Pradesh,Q3,6044,2021-12-01,2-Wheelers,2022,1.21,73
+Rajasthan,Q4,56168,2022-02-01,2-Wheelers,2022,4.56,2563
+Kerala,Q4,45699,2022-01-01,2-Wheelers,2022,3.06,1399
+Gujarat,Q1,33419,2021-05-01,2-Wheelers,2022,0.32,106
+Assam,Q2,24438,2021-09-01,2-Wheelers,2022,0.16,38
+Manipur,Q4,3660,2022-01-01,2-Wheelers,2022,0.14,5
+Goa,Q4,3015,2022-01-01,2-Wheelers,2022,6.43,194
+Tamil Nadu,Q4,124272,2022-03-01,2-Wheelers,2022,6.2,7708
+Uttarakhand,Q2,9926,2021-09-01,2-Wheelers,2022,1.7,169
+Andhra Pradesh,Q3,88110,2021-10-01,2-Wheelers,2022,1.13,993
+Karnataka,Q1,59979,2021-04-01,2-Wheelers,2022,2.58,1549
+Punjab,Q1,24348,2021-04-01,2-Wheelers,2022,0.04,9
+DNH and DD,Q1,627,2021-06-01,2-Wheelers,2022,0.32,2
+Puducherry,Q2,3211,2021-09-01,2-Wheelers,2022,1.49,48
+DNH and DD,Q4,757,2022-03-01,2-Wheelers,2022,0.66,5
+Himachal Pradesh,Q2,6543,2021-07-01,2-Wheelers,2022,0.28,18
+Maharashtra,Q2,119076,2021-08-01,2-Wheelers,2022,2.03,2419
+Manipur,Q1,3048,2021-04-01,2-Wheelers,2022,0.07,2
+Odisha,Q3,26693,2021-12-01,2-Wheelers,2022,3.52,939
+Uttarakhand,Q3,12632,2021-12-01,2-Wheelers,2022,1.81,229
+Bihar,Q2,70562,2021-07-01,2-Wheelers,2022,0.27,189
+Uttar Pradesh,Q2,215180,2021-07-01,2-Wheelers,2022,0.14,303
+Bihar,Q3,63454,2021-12-01,2-Wheelers,2022,0.74,467
+Chandigarh,Q2,1162,2021-09-01,2-Wheelers,2022,2.15,25
+Goa,Q4,4381,2022-03-01,2-Wheelers,2022,5.36,235
+Odisha,Q2,38080,2021-07-01,2-Wheelers,2022,0.85,324
+Tamil Nadu,Q3,111203,2021-11-01,2-Wheelers,2022,2.56,2844
+Uttar Pradesh,Q3,225370,2021-11-01,2-Wheelers,2022,0.6,1347
+Uttar Pradesh,Q3,268713,2021-12-01,2-Wheelers,2022,0.51,1371
+Maharashtra,Q1,45515,2021-04-01,2-Wheelers,2022,0.94,428
+Punjab,Q1,23393,2021-06-01,2-Wheelers,2022,0.3,71
+Andhra Pradesh,Q2,51764,2021-09-01,2-Wheelers,2022,1.48,766
+Puducherry,Q2,3592,2021-07-01,2-Wheelers,2022,1.06,38
+Gujarat,Q3,84700,2021-10-01,2-Wheelers,2022,1.72,1460
+Manipur,Q3,2490,2021-11-01,2-Wheelers,2022,0.12,3
+Kerala,Q4,50610,2022-03-01,2-Wheelers,2022,5.69,2880
+Maharashtra,Q3,134502,2021-12-01,2-Wheelers,2022,3.55,4775
+Himachal Pradesh,Q1,5098,2021-06-01,2-Wheelers,2022,0.49,25
+Kerala,Q3,43996,2021-12-01,2-Wheelers,2022,2.52,1107
+Jammu and Kashmir,Q4,3561,2022-01-01,2-Wheelers,2022,2.13,76
+Rajasthan,Q2,48502,2021-09-01,2-Wheelers,2022,3.35,1625
+Puducherry,Q2,3496,2021-08-01,2-Wheelers,2022,0.97,34
+Haryana,Q2,32590,2021-09-01,2-Wheelers,2022,2.12,691
+Jharkhand,Q3,51355,2021-11-01,2-Wheelers,2022,0.72,370
+Maharashtra,Q1,16627,2021-05-01,2-Wheelers,2022,1.14,189
+Himachal Pradesh,Q4,3490,2022-01-01,2-Wheelers,2022,0.63,22
+Rajasthan,Q1,18802,2021-05-01,2-Wheelers,2022,0.18,33
+Andhra Pradesh,Q1,41370,2021-05-01,2-Wheelers,2022,0.49,201
+Chandigarh,Q1,1314,2021-06-01,2-Wheelers,2022,0.15,2
+Tamil Nadu,Q2,109440,2021-08-01,2-Wheelers,2022,2.51,2745
+West Bengal,Q2,65430,2021-09-01,2-Wheelers,2022,0.13,84
+Jharkhand,Q3,26077,2021-12-01,2-Wheelers,2022,1.12,293
+Karnataka,Q2,79751,2021-08-01,2-Wheelers,2022,4.16,3319
+Madhya Pradesh,Q4,76256,2022-03-01,2-Wheelers,2022,2.07,1580
+Madhya Pradesh,Q2,99094,2021-07-01,2-Wheelers,2022,0.47,469
+Uttar Pradesh,Q4,163699,2022-02-01,2-Wheelers,2022,0.73,1202
+Tripura,Q4,3504,2022-03-01,2-Wheelers,2022,0.51,18
+Himachal Pradesh,Q1,4360,2021-04-01,2-Wheelers,2022,0.21,9
+Rajasthan,Q2,57021,2021-08-01,2-Wheelers,2022,2.54,1451
+Delhi,Q3,18687,2021-12-01,2-Wheelers,2022,6.73,1258
+Uttar Pradesh,Q4,180927,2022-03-01,2-Wheelers,2022,1.1,1986
+Chandigarh,Q2,1380,2021-08-01,2-Wheelers,2022,1.38,19
+Gujarat,Q2,54721,2021-08-01,2-Wheelers,2022,1.07,584
+Andhra Pradesh,Q3,42446,2021-12-01,2-Wheelers,2022,2.32,985
+Odisha,Q1,5900,2021-05-01,2-Wheelers,2022,0.47,28
+Tamil Nadu,Q3,85674,2021-10-01,2-Wheelers,2022,2.95,2530
+Bihar,Q2,48021,2021-09-01,2-Wheelers,2022,0.99,475
+Delhi,Q1,22186,2021-06-01,2-Wheelers,2022,0.92,205
+Jammu and Kashmir,Q1,8677,2021-06-01,2-Wheelers,2022,1.0,87
+Jharkhand,Q2,24528,2021-09-01,2-Wheelers,2022,0.61,149
+Punjab,Q1,14366,2021-05-01,2-Wheelers,2022,0.15,21
+Goa,Q2,2316,2021-08-01,2-Wheelers,2022,0.95,22
+Gujarat,Q3,92992,2021-12-01,2-Wheelers,2022,2.27,2111
+Karnataka,Q1,4942,2021-05-01,2-Wheelers,2022,2.83,140
+Goa,Q2,1694,2021-07-01,2-Wheelers,2022,3.78,64
+Madhya Pradesh,Q1,90928,2021-06-01,2-Wheelers,2022,0.25,227
+West Bengal,Q2,63613,2021-08-01,2-Wheelers,2022,0.13,80
+West Bengal,Q1,65885,2021-04-01,2-Wheelers,2022,0.01,9
+Jammu and Kashmir,Q4,5680,2022-03-01,2-Wheelers,2022,4.0,227
+Uttar Pradesh,Q1,147458,2021-05-01,2-Wheelers,2022,0.02,25
+Gujarat,Q2,68641,2021-07-01,2-Wheelers,2022,0.52,358
+Bihar,Q1,81056,2021-04-01,2-Wheelers,2022,0.06,47
+Kerala,Q1,57624,2021-04-01,2-Wheelers,2022,0.66,379
+Punjab,Q3,29940,2021-10-01,2-Wheelers,2022,1.39,416
+Puducherry,Q1,2559,2021-06-01,2-Wheelers,2022,1.21,31
+Puducherry,Q3,2839,2021-10-01,2-Wheelers,2022,1.09,31
+Punjab,Q4,31497,2022-03-01,2-Wheelers,2022,2.27,716
+Goa,Q1,3374,2021-04-01,2-Wheelers,2022,1.07,36
+DNH and DD,Q2,584,2021-08-01,2-Wheelers,2022,0.34,2
+Delhi,Q4,24615,2022-01-01,2-Wheelers,2022,7.16,1762
+Himachal Pradesh,Q4,4041,2022-02-01,2-Wheelers,2022,1.41,57
+Tamil Nadu,Q1,45197,2021-06-01,2-Wheelers,2022,1.46,660
+Bihar,Q3,107209,2021-11-01,2-Wheelers,2022,0.56,604
+Chandigarh,Q4,1184,2022-02-01,2-Wheelers,2022,1.86,22
+Punjab,Q3,35287,2021-12-01,2-Wheelers,2022,1.28,450
+Manipur,Q4,3508,2022-03-01,2-Wheelers,2022,0.06,2
+Punjab,Q2,27261,2021-07-01,2-Wheelers,2022,1.17,318
+Andhra Pradesh,Q1,53867,2021-06-01,2-Wheelers,2022,0.69,369
+Uttar Pradesh,Q3,129924,2021-10-01,2-Wheelers,2022,0.79,1022
+Rajasthan,Q3,61061,2021-12-01,2-Wheelers,2022,3.47,2119
+Jammu and Kashmir,Q2,10104,2021-07-01,2-Wheelers,2022,2.01,203
+Gujarat,Q3,110759,2021-11-01,2-Wheelers,2022,1.42,1569
+Puducherry,Q4,4044,2022-01-01,2-Wheelers,2022,2.32,94
+Jharkhand,Q4,27174,2022-02-01,2-Wheelers,2022,1.24,338
+Gujarat,Q1,49005,2021-04-01,2-Wheelers,2022,0.2,98
+Jammu and Kashmir,Q1,6874,2021-04-01,2-Wheelers,2022,0.32,22
+Gujarat,Q4,68658,2022-02-01,2-Wheelers,2022,3.81,2613
+West Bengal,Q4,73783,2022-03-01,2-Wheelers,2022,0.85,626
+Puducherry,Q1,2581,2021-04-01,2-Wheelers,2022,0.7,18
+Gujarat,Q1,59121,2021-06-01,2-Wheelers,2022,0.35,207
+Assam,Q3,29586,2021-11-01,2-Wheelers,2022,0.41,120
+Rajasthan,Q3,141368,2021-11-01,2-Wheelers,2022,1.6,2265
+Uttar Pradesh,Q2,132962,2021-09-01,2-Wheelers,2022,0.55,730
+DNH and DD,Q2,704,2021-07-01,2-Wheelers,2022,0.43,3
+Madhya Pradesh,Q3,99568,2021-11-01,2-Wheelers,2022,0.94,940
+Punjab,Q4,28295,2022-01-01,2-Wheelers,2022,1.95,552
+Jammu and Kashmir,Q3,8083,2021-11-01,2-Wheelers,2022,0.79,64
+Gujarat,Q4,79333,2022-03-01,2-Wheelers,2022,5.68,4507
+Haryana,Q4,30295,2022-03-01,2-Wheelers,2022,3.38,1025
+Delhi,Q3,26087,2021-10-01,2-Wheelers,2022,3.81,995
+Chandigarh,Q4,1291,2022-01-01,2-Wheelers,2022,1.47,19
+Bihar,Q1,55276,2021-05-01,2-Wheelers,2022,0.01,8
+Odisha,Q3,41128,2021-11-01,2-Wheelers,2022,2.05,843
+Uttarakhand,Q1,7607,2021-04-01,2-Wheelers,2022,0.45,34
+Andhra Pradesh,Q4,52013,2022-02-01,2-Wheelers,2022,4.39,2284
+Tamil Nadu,Q2,108477,2021-09-01,2-Wheelers,2022,2.65,2880
+Odisha,Q2,28355,2021-09-01,2-Wheelers,2022,1.73,490
+Madhya Pradesh,Q2,67859,2021-08-01,2-Wheelers,2022,0.67,457
+Himachal Pradesh,Q2,4975,2021-09-01,2-Wheelers,2022,0.66,33
+Jammu and Kashmir,Q2,9978,2021-08-01,2-Wheelers,2022,1.22,122
+Karnataka,Q3,76401,2021-10-01,2-Wheelers,2022,4.85,3709
+Uttarakhand,Q4,9283,2022-02-01,2-Wheelers,2022,2.4,223
+Odisha,Q3,52708,2021-10-01,2-Wheelers,2022,1.8,948
+Maharashtra,Q3,168326,2021-11-01,2-Wheelers,2022,2.19,3684
+Puducherry,Q4,3913,2022-03-01,2-Wheelers,2022,4.63,181
+Goa,Q4,3248,2022-02-01,2-Wheelers,2022,8.22,267
+Assam,Q4,7242,2024-01-01,4-Wheelers,2024,0.29,21
+Maharashtra,Q4,50156,2024-01-01,4-Wheelers,2024,2.57,1289
+Bihar,Q4,6972,2024-03-01,4-Wheelers,2024,1.42,99
+Gujarat,Q4,33379,2024-01-01,4-Wheelers,2024,1.48,494
+Haryana,Q4,28776,2024-01-01,4-Wheelers,2024,0.98,282
+Punjab,Q4,15000,2024-01-01,4-Wheelers,2024,0.7,105
+Meghalaya,Q4,1200,2024-03-01,4-Wheelers,2024,0.25,3
+Madhya Pradesh,Q4,19326,2024-01-01,4-Wheelers,2024,0.89,172
+Jharkhand,Q4,4678,2024-01-01,4-Wheelers,2024,0.62,29
+Kerala,Q4,13861,2024-03-01,4-Wheelers,2024,6.32,876
+Tripura,Q4,466,2024-01-01,4-Wheelers,2024,0.43,2
+Arunachal Pradesh,Q4,1081,2024-03-01,4-Wheelers,2024,0.09,1
+Chandigarh,Q4,1624,2024-01-01,4-Wheelers,2024,6.22,101
+Haryana,Q4,23644,2024-03-01,4-Wheelers,2024,1.29,305
+DNH and DD,Q4,429,2024-03-01,4-Wheelers,2024,0.93,4
+Gujarat,Q4,25424,2024-03-01,4-Wheelers,2024,2.6,661
+Maharashtra,Q4,36826,2024-03-01,4-Wheelers,2024,2.93,1079
+Jammu and Kashmir,Q4,4500,2024-03-01,4-Wheelers,2024,0.4,18
+Rajasthan,Q4,21747,2024-01-01,4-Wheelers,2024,2.29,498
+Tamil Nadu,Q4,22095,2024-03-01,4-Wheelers,2024,3.39,749
+Chandigarh,Q4,1294,2024-03-01,4-Wheelers,2024,9.2,119
+Odisha,Q4,7500,2024-01-01,4-Wheelers,2024,2.0,150
+Manipur,Q4,433,2024-01-01,4-Wheelers,2024,1.62,7
+Andhra Pradesh,Q4,7838,2024-03-01,4-Wheelers,2024,4.67,366
+Karnataka,Q4,30770,2024-01-01,4-Wheelers,2024,3.51,1080
+West Bengal,Q4,8089,2024-03-01,4-Wheelers,2024,6.12,495
+Karnataka,Q4,26751,2024-03-01,4-Wheelers,2024,5.54,1482
+Jammu and Kashmir,Q4,5264,2024-01-01,4-Wheelers,2024,0.19,10
+Assam,Q4,7465,2024-03-01,4-Wheelers,2024,0.71,53
+Tripura,Q4,556,2024-03-01,4-Wheelers,2024,0.54,3
+DNH and DD,Q4,527,2024-01-01,4-Wheelers,2024,0.57,3
+Andaman & Nicobar Island,Q4,158,2024-03-01,4-Wheelers,2024,0.63,1
+Goa,Q4,1730,2024-03-01,4-Wheelers,2024,7.11,123
+Uttar Pradesh,Q4,44334,2024-01-01,4-Wheelers,2024,0.9,399
+Uttarakhand,Q4,4812,2024-03-01,4-Wheelers,2024,1.06,51
+Tamil Nadu,Q4,28455,2024-01-01,4-Wheelers,2024,2.2,626
+Meghalaya,Q4,1429,2024-01-01,4-Wheelers,2024,0.07,1
+Madhya Pradesh,Q4,14743,2024-03-01,4-Wheelers,2024,0.97,143
+Chhattisgarh,Q4,4946,2024-01-01,4-Wheelers,2024,1.84,91
+Himachal Pradesh,Q4,4815,2024-01-01,4-Wheelers,2024,0.27,13
+West Bengal,Q4,10223,2024-01-01,4-Wheelers,2024,1.8,184
+Kerala,Q4,164,2024-01-01,4-Wheelers,2024,447.56,734
+Uttar Pradesh,Q4,34425,2024-03-01,4-Wheelers,2024,1.13,389
+Goa,Q4,2331,2024-01-01,4-Wheelers,2024,3.69,86
+Rajasthan,Q4,16942,2024-03-01,4-Wheelers,2024,2.91,493
+Uttarakhand,Q4,5385,2024-01-01,4-Wheelers,2024,0.91,49
+Jharkhand,Q4,4483,2024-03-01,4-Wheelers,2024,1.16,52
+Puducherry,Q4,1042,2024-03-01,4-Wheelers,2024,0.48,5
+Bihar,Q4,6824,2024-01-01,4-Wheelers,2024,0.85,58
+Himachal Pradesh,Q4,4147,2024-03-01,4-Wheelers,2024,0.41,17
+Mizoram,Q4,513,2024-01-01,4-Wheelers,2024,0.19,1
+Chhattisgarh,Q4,4348,2024-03-01,4-Wheelers,2024,2.76,120
+Punjab,Q4,14348,2024-03-01,4-Wheelers,2024,0.92,132
+Delhi,Q4,21520,2024-01-01,4-Wheelers,2024,6.25,1345
+Delhi,Q4,15905,2024-03-01,4-Wheelers,2024,5.64,897
+Puducherry,Q4,1250,2024-01-01,4-Wheelers,2024,0.8,10
+Arunachal Pradesh,Q4,1174,2024-01-01,4-Wheelers,2024,0.43,5
+Andhra Pradesh,Q4,8483,2024-01-01,4-Wheelers,2024,1.45,123
+Manipur,Q4,370,2024-03-01,4-Wheelers,2024,0.54,2
+Delhi,Q4,38413,2024-01-01,2-Wheelers,2024,8.0,3073
+Bihar,Q4,71556,2024-01-01,2-Wheelers,2024,1.8,1288
+Ladakh,Q4,37,2024-01-01,2-Wheelers,2024,37.84,14
+Chandigarh,Q4,1450,2024-01-01,2-Wheelers,2024,8.14,118
+Gujarat,Q4,94822,2024-03-01,2-Wheelers,2024,8.96,8496
+Maharashtra,Q4,172830,2024-01-01,2-Wheelers,2024,9.47,16367
+Kerala,Q4,42909,2024-03-01,2-Wheelers,2024,19.56,8393
+Puducherry,Q4,4337,2024-03-01,2-Wheelers,2024,11.0,477
+Jharkhand,Q4,30612,2024-01-01,2-Wheelers,2024,1.8,551
+Andhra Pradesh,Q4,69119,2024-03-01,2-Wheelers,2024,10.21,7057
+Chhattisgarh,Q4,42881,2024-01-01,2-Wheelers,2024,5.52,2367
+Maharashtra,Q4,152563,2024-03-01,2-Wheelers,2024,17.48,26668
+Jharkhand,Q4,38149,2024-03-01,2-Wheelers,2024,2.16,824
+Jammu and Kashmir,Q4,6600,2024-03-01,2-Wheelers,2024,4.5,297
+Haryana,Q4,42824,2024-01-01,2-Wheelers,2024,2.94,1259
+Himachal Pradesh,Q4,6031,2024-01-01,2-Wheelers,2024,1.31,79
+Goa,Q4,5018,2024-03-01,2-Wheelers,2024,34.77,1745
+Uttarakhand,Q4,12506,2024-03-01,2-Wheelers,2024,4.63,579
+Uttar Pradesh,Q4,210216,2024-03-01,2-Wheelers,2024,3.71,7799
+Karnataka,Q4,115920,2024-01-01,2-Wheelers,2024,10.71,12415
+Tamil Nadu,Q4,153753,2024-01-01,2-Wheelers,2024,4.93,7580
+Himachal Pradesh,Q4,4737,2024-03-01,2-Wheelers,2024,1.9,90
+Meghalaya,Q4,2223,2024-03-01,2-Wheelers,2024,0.18,4
+Gujarat,Q4,91933,2024-01-01,2-Wheelers,2024,5.9,5424
+Madhya Pradesh,Q4,95405,2024-03-01,2-Wheelers,2024,6.05,5772
+Manipur,Q4,1556,2024-01-01,2-Wheelers,2024,0.45,7
+Karnataka,Q4,123800,2024-03-01,2-Wheelers,2024,18.37,22742
+Chhattisgarh,Q4,46046,2024-03-01,2-Wheelers,2024,7.84,3610
+Tripura,Q4,3000,2024-01-01,2-Wheelers,2024,0.1,3
+Haryana,Q4,41778,2024-03-01,2-Wheelers,2024,3.32,1387
+Goa,Q4,5079,2024-01-01,2-Wheelers,2024,16.38,832
+Assam,Q4,42612,2024-03-01,2-Wheelers,2024,1.8,767
+Tripura,Q4,3728,2024-03-01,2-Wheelers,2024,1.1,41
+Uttar Pradesh,Q4,181667,2024-01-01,2-Wheelers,2024,3.12,5668
+Punjab,Q4,33511,2024-01-01,2-Wheelers,2024,2.45,821
+Mizoram,Q4,1932,2024-03-01,2-Wheelers,2024,3.0,58
+Jammu and Kashmir,Q4,4582,2024-01-01,2-Wheelers,2024,4.78,219
+West Bengal,Q4,69871,2024-03-01,2-Wheelers,2024,3.09,2159
+DNH and DD,Q4,780,2024-03-01,2-Wheelers,2024,3.21,25
+Andhra Pradesh,Q4,53619,2024-01-01,2-Wheelers,2024,3.98,2134
+Nagaland,Q4,1180,2024-03-01,2-Wheelers,2024,0.17,2
+Rajasthan,Q4,89538,2024-03-01,2-Wheelers,2024,8.86,7933
+Assam,Q4,44386,2024-01-01,2-Wheelers,2024,0.57,253
+Mizoram,Q4,1872,2024-01-01,2-Wheelers,2024,1.5,28
+Bihar,Q4,102949,2024-03-01,2-Wheelers,2024,2.51,2584
+Uttarakhand,Q4,11682,2024-01-01,2-Wheelers,2024,3.27,382
+Andaman & Nicobar,Q4,483,2024-01-01,2-Wheelers,2024,0.41,2
+Chandigarh,Q4,1525,2024-03-01,2-Wheelers,2024,14.1,215
+Puducherry,Q4,5141,2024-01-01,2-Wheelers,2024,6.03,310
+Delhi,Q4,31599,2024-03-01,2-Wheelers,2024,15.83,5002
+Rajasthan,Q4,78862,2024-01-01,2-Wheelers,2024,5.62,4432
+Punjab,Q4,35877,2024-03-01,2-Wheelers,2024,4.22,1514
+Meghalaya,Q4,1625,2024-01-01,2-Wheelers,2024,1.6,26
+DNH and DD,Q4,866,2024-01-01,2-Wheelers,2024,3.58,31
+Madhya Pradesh,Q4,92100,2024-01-01,2-Wheelers,2024,4.0,3684
+Kerala,Q4,42509,2024-01-01,2-Wheelers,2024,15.19,6457
+Tamil Nadu,Q4,124071,2024-03-01,2-Wheelers,2024,10.76,13350
+West Bengal,Q4,72390,2024-01-01,2-Wheelers,2024,2.26,1636
+Odisha,Q4,53485,2024-01-01,2-Wheelers,2024,7.26,3883
+Manipur,Q4,1394,2024-03-01,2-Wheelers,2024,0.93,13
+Andaman & Nicobar Island,Q4,447,2024-03-01,2-Wheelers,2024,0.45,2
+Assam,Q3,41326,2023-11-01,2-Wheelers,2024,0.59,244
+Jharkhand,Q3,63696,2023-11-01,2-Wheelers,2024,1.3,825
+Assam,Q3,51372,2023-10-01,2-Wheelers,2024,0.48,245
+Himachal Pradesh,Q3,4480,2023-10-01,2-Wheelers,2024,1.18,53
+Jammu and Kashmir,Q3,6736,2023-10-01,2-Wheelers,2024,2.03,137
+Meghalaya,Q3,1776,2023-10-01,2-Wheelers,2024,0.06,1
+Chandigarh,Q3,2430,2023-11-01,2-Wheelers,2024,9.92,241
+Karnataka,Q3,136535,2023-11-01,2-Wheelers,2024,10.47,14300
+Karnataka,Q3,108712,2023-10-01,2-Wheelers,2024,10.24,11137
+Uttar Pradesh,Q3,387983,2023-11-01,2-Wheelers,2024,1.37,5327
+DNH and DD,Q3,1109,2023-10-01,2-Wheelers,2024,0.36,4
+Mizoram,Q3,1977,2023-11-01,2-Wheelers,2024,1.77,35
+Odisha,Q3,63423,2023-11-01,2-Wheelers,2024,6.85,4345
+Nagaland,Q3,634,2023-11-01,2-Wheelers,2024,0.16,1
+Maharashtra,Q3,167065,2023-10-01,2-Wheelers,2024,9.41,15716
+Tripura,Q3,4285,2023-10-01,2-Wheelers,2024,0.14,6
+Haryana,Q3,42364,2023-11-01,2-Wheelers,2024,1.33,565
+Delhi,Q3,56736,2023-11-01,2-Wheelers,2024,7.01,3976
+Uttar Pradesh,Q3,162993,2023-10-01,2-Wheelers,2024,2.32,3775
+Goa,Q3,5377,2023-10-01,2-Wheelers,2024,10.54,567
+Meghalaya,Q3,1893,2023-11-01,2-Wheelers,2024,0.32,6
+Kerala,Q3,36841,2023-10-01,2-Wheelers,2024,13.71,5051
+Odisha,Q3,71596,2023-10-01,2-Wheelers,2024,5.55,3972
+West Bengal,Q3,97240,2023-11-01,2-Wheelers,2024,1.04,1007
+Tamil Nadu,Q3,131658,2023-10-01,2-Wheelers,2024,4.94,6507
+Delhi,Q3,35861,2023-10-01,2-Wheelers,2024,7.28,2611
+Andaman & Nicobar Island,Q3,598,2023-11-01,2-Wheelers,2024,0.5,3
+Chhattisgarh,Q3,38600,2023-10-01,2-Wheelers,2024,5.69,2195
+Jammu and Kashmir,Q3,8743,2023-11-01,2-Wheelers,2024,1.97,172
+Himachal Pradesh,Q3,6131,2023-11-01,2-Wheelers,2024,0.86,53
+Rajasthan,Q3,103647,2023-10-01,2-Wheelers,2024,4.73,4906
+Uttarakhand,Q3,24522,2023-11-01,2-Wheelers,2024,2.55,626
+Gujarat,Q3,149414,2023-10-01,2-Wheelers,2024,5.63,8417
+Haryana,Q3,37096,2023-10-01,2-Wheelers,2024,1.59,591
+Tamil Nadu,Q3,121926,2023-11-01,2-Wheelers,2024,5.82,7096
+Gujarat,Q3,152556,2023-11-01,2-Wheelers,2024,3.56,5424
+Madhya Pradesh,Q3,99036,2023-10-01,2-Wheelers,2024,3.29,3262
+Mizoram,Q3,1958,2023-10-01,2-Wheelers,2024,1.84,36
+Punjab,Q3,48694,2023-11-01,2-Wheelers,2024,2.43,1184
+Andaman & Nicobar Island,Q3,404,2023-10-01,2-Wheelers,2024,0.25,1
+West Bengal,Q3,65489,2023-10-01,2-Wheelers,2024,1.3,851
+Puducherry,Q3,3765,2023-10-01,2-Wheelers,2024,5.23,197
+Jharkhand,Q3,33632,2023-10-01,2-Wheelers,2024,1.49,502
+Manipur,Q3,1035,2023-10-01,2-Wheelers,2024,0.58,6
+Bihar,Q3,149828,2023-11-01,2-Wheelers,2024,1.18,1765
+Chandigarh,Q3,1964,2023-10-01,2-Wheelers,2024,7.99,157
+Goa,Q3,6217,2023-11-01,2-Wheelers,2024,15.71,977
+Maharashtra,Q3,230768,2023-11-01,2-Wheelers,2024,8.24,19008
+Tripura,Q3,4893,2023-11-01,2-Wheelers,2024,0.22,11
+DNH and DD,Q3,1185,2023-11-01,2-Wheelers,2024,1.27,15
+Andhra Pradesh,Q3,79246,2023-11-01,2-Wheelers,2024,2.52,1997
+Kerala,Q3,36822,2023-11-01,2-Wheelers,2024,14.53,5352
+Uttarakhand,Q3,13890,2023-10-01,2-Wheelers,2024,2.76,383
+Bihar,Q3,65088,2023-10-01,2-Wheelers,2024,1.26,820
+Puducherry,Q3,3681,2023-11-01,2-Wheelers,2024,5.27,194
+Chhattisgarh,Q3,76276,2023-11-01,2-Wheelers,2024,5.09,3880
+Manipur,Q3,812,2023-11-01,2-Wheelers,2024,1.23,10
+Rajasthan,Q3,191722,2023-11-01,2-Wheelers,2024,4.04,7743
+Madhya Pradesh,Q3,204532,2023-11-01,2-Wheelers,2024,2.38,4861
+Andhra Pradesh,Q3,66154,2023-10-01,2-Wheelers,2024,2.66,1757
+Punjab,Q3,34028,2023-10-01,2-Wheelers,2024,2.23,760
+Andhra Pradesh,Q3,8220,2023-11-01,4-Wheelers,2024,1.19,98
+Jharkhand,Q3,6684,2023-11-01,4-Wheelers,2024,0.6,40
+Jharkhand,Q3,4837,2023-10-01,4-Wheelers,2024,0.62,30
+Goa,Q3,2521,2023-11-01,4-Wheelers,2024,3.85,97
+Chhattisgarh,Q3,4920,2023-10-01,4-Wheelers,2024,1.61,79
+Puducherry,Q3,990,2023-11-01,4-Wheelers,2024,1.11,11
+Delhi,Q3,16459,2023-10-01,4-Wheelers,2024,3.15,519
+Bihar,Q3,9075,2023-11-01,4-Wheelers,2024,0.55,50
+Tripura,Q3,497,2023-10-01,4-Wheelers,2024,0.6,3
+Uttarakhand,Q3,4562,2023-10-01,4-Wheelers,2024,0.75,34
+Andaman & Nicobar Island,Q3,170,2023-11-01,4-Wheelers,2024,0.59,1
+Meghalaya,Q3,1387,2023-11-01,4-Wheelers,2024,0.14,2
+Chandigarh,Q3,1805,2023-11-01,4-Wheelers,2024,4.88,88
+Tamil Nadu,Q3,28342,2023-10-01,4-Wheelers,2024,1.96,556
+Punjab,Q3,12992,2023-11-01,4-Wheelers,2024,0.99,128
+Odisha,Q3,8500,2023-10-01,4-Wheelers,2024,1.53,130
+Delhi,Q3,18675,2023-11-01,4-Wheelers,2024,2.88,538
+Arunachal Pradesh,Q3,1111,2023-10-01,4-Wheelers,2024,0.18,2
+Nagaland,Q3,860,2023-11-01,4-Wheelers,2024,0.12,1
+Madhya Pradesh,Q3,13646,2023-10-01,4-Wheelers,2024,0.82,112
+Tamil Nadu,Q3,19015,2023-11-01,4-Wheelers,2024,3.15,599
+Assam,Q3,9481,2023-10-01,4-Wheelers,2024,0.25,24
+Karnataka,Q3,26232,2023-11-01,4-Wheelers,2024,3.13,822
+Arunachal Pradesh,Q3,1226,2023-11-01,4-Wheelers,2024,0.24,3
+Jammu and Kashmir,Q3,4603,2023-10-01,4-Wheelers,2024,0.22,10
+Odisha,Q3,7105,2023-11-01,4-Wheelers,2024,2.49,177
+Kerala,Q3,14522,2023-10-01,4-Wheelers,2024,4.42,642
+Himachal Pradesh,Q3,3066,2023-10-01,4-Wheelers,2024,0.23,7
+Gujarat,Q3,32601,2023-11-01,4-Wheelers,2024,1.82,592
+Madhya Pradesh,Q3,17166,2023-11-01,4-Wheelers,2024,0.8,137
+Maharashtra,Q3,48131,2023-11-01,4-Wheelers,2024,2.73,1315
+Punjab,Q3,11396,2023-10-01,4-Wheelers,2024,0.82,94
+Meghalaya,Q3,1354,2023-10-01,4-Wheelers,2024,0.07,1
+Gujarat,Q3,42365,2023-10-01,4-Wheelers,2024,1.58,670
+West Bengal,Q3,9972,2023-10-01,4-Wheelers,2024,2.39,238
+DNH and DD,Q3,590,2023-11-01,4-Wheelers,2024,0.51,3
+Andaman & Nicobar Island,Q3,191,2023-10-01,4-Wheelers,2024,0.52,1
+Chhattisgarh,Q3,5877,2023-11-01,4-Wheelers,2024,1.68,99
+Kerala,Q3,12551,2023-11-01,4-Wheelers,2024,5.11,641
+DNH and DD,Q3,620,2023-10-01,4-Wheelers,2024,1.94,12
+Uttar Pradesh,Q3,33774,2023-10-01,4-Wheelers,2024,1.52,512
+Haryana,Q3,22002,2023-11-01,4-Wheelers,2024,0.98,215
+Manipur,Q3,246,2023-11-01,4-Wheelers,2024,0.81,2
+Haryana,Q3,20543,2023-10-01,4-Wheelers,2024,1.07,220
+Assam,Q3,7960,2023-11-01,4-Wheelers,2024,0.33,26
+Maharashtra,Q3,47126,2023-10-01,4-Wheelers,2024,2.98,1404
+Manipur,Q3,272,2023-10-01,4-Wheelers,2024,0.74,2
+Jammu and Kashmir,Q3,4981,2023-11-01,4-Wheelers,2024,0.36,18
+Rajasthan,Q3,24386,2023-11-01,4-Wheelers,2024,2.21,539
+Karnataka,Q3,25652,2023-10-01,4-Wheelers,2024,4.5,1154
+Goa,Q3,2094,2023-10-01,4-Wheelers,2024,4.15,87
+West Bengal,Q3,9743,2023-11-01,4-Wheelers,2024,2.98,290
+Andhra Pradesh,Q3,7743,2023-10-01,4-Wheelers,2024,0.88,68
+Chandigarh,Q3,1722,2023-10-01,4-Wheelers,2024,4.12,71
+Himachal Pradesh,Q3,4242,2023-11-01,4-Wheelers,2024,0.35,15
+Rajasthan,Q3,18951,2023-10-01,4-Wheelers,2024,2.45,464
+Bihar,Q3,6068,2023-10-01,4-Wheelers,2024,0.94,57
+Uttarakhand,Q3,5398,2023-11-01,4-Wheelers,2024,0.87,47
+Tripura,Q3,657,2023-11-01,4-Wheelers,2024,0.3,2
+Puducherry,Q3,990,2023-10-01,4-Wheelers,2024,0.71,7
+Uttar Pradesh,Q3,42692,2023-11-01,4-Wheelers,2024,1.04,446
+Chandigarh,Q2,1937,2023-08-01,4-Wheelers,2024,4.13,80
+Gujarat,Q2,25572,2023-08-01,4-Wheelers,2024,2.0,512
+Jharkhand,Q2,4010,2023-07-01,4-Wheelers,2024,0.77,31
+Maharashtra,Q2,43063,2023-09-01,4-Wheelers,2024,2.02,869
+Tamil Nadu,Q2,23537,2023-08-01,4-Wheelers,2024,2.51,591
+Jammu and Kashmir,Q2,4435,2023-07-01,4-Wheelers,2024,0.25,11
+Madhya Pradesh,Q2,11479,2023-08-01,4-Wheelers,2024,0.98,112
+Kerala,Q2,21467,2023-09-01,4-Wheelers,2024,3.6,773
+Maharashtra,Q2,36082,2023-07-01,4-Wheelers,2024,3.06,1103
+Delhi,Q2,15776,2023-09-01,4-Wheelers,2024,2.41,380
+Haryana,Q2,24414,2023-08-01,4-Wheelers,2024,0.77,189
+Himachal Pradesh,Q2,3683,2023-09-01,4-Wheelers,2024,0.24,9
+Haryana,Q2,11915,2023-07-01,4-Wheelers,2024,0.77,92
+Arunachal Pradesh,Q2,1121,2023-08-01,4-Wheelers,2024,0.36,4
+Jharkhand,Q2,4040,2023-08-01,4-Wheelers,2024,1.29,52
+Rajasthan,Q2,14064,2023-07-01,4-Wheelers,2024,2.88,405
+Delhi,Q2,15285,2023-07-01,4-Wheelers,2024,5.44,831
+DNH and DD,Q2,357,2023-08-01,4-Wheelers,2024,0.28,1
+Uttarakhand,Q2,4234,2023-09-01,4-Wheelers,2024,0.71,30
+Meghalaya,Q2,1215,2023-08-01,4-Wheelers,2024,0.25,3
+West Bengal,Q2,8111,2023-07-01,4-Wheelers,2024,2.21,179
+Chhattisgarh,Q2,3859,2023-08-01,4-Wheelers,2024,2.77,107
+Arunachal Pradesh,Q2,1069,2023-07-01,4-Wheelers,2024,0.19,2
+Meghalaya,Q2,1030,2023-07-01,4-Wheelers,2024,0.29,3
+Arunachal Pradesh,Q2,1003,2023-09-01,4-Wheelers,2024,0.4,4
+Uttarakhand,Q2,4216,2023-07-01,4-Wheelers,2024,1.26,53
+Bihar,Q2,5210,2023-09-01,4-Wheelers,2024,1.15,60
+Uttar Pradesh,Q2,29214,2023-07-01,4-Wheelers,2024,1.44,420
+Assam,Q2,7381,2023-07-01,4-Wheelers,2024,0.31,23
+Gujarat,Q2,27755,2023-07-01,4-Wheelers,2024,2.49,692
+Jammu and Kashmir,Q2,4843,2023-08-01,4-Wheelers,2024,0.31,15
+Karnataka,Q2,23154,2023-07-01,4-Wheelers,2024,5.27,1221
+Nagaland,Q2,739,2023-07-01,4-Wheelers,2024,0.14,1
+Himachal Pradesh,Q2,3975,2023-08-01,4-Wheelers,2024,0.28,11
+Kerala,Q2,18189,2023-08-01,4-Wheelers,2024,4.05,736
+Jharkhand,Q2,4600,2023-09-01,4-Wheelers,2024,0.48,22
+Andaman & Nicobar Island,Q2,148,2023-09-01,4-Wheelers,2024,0.68,1
+West Bengal,Q2,9011,2023-09-01,4-Wheelers,2024,2.42,218
+Goa,Q2,1739,2023-07-01,4-Wheelers,2024,4.83,84
+West Bengal,Q2,9101,2023-08-01,4-Wheelers,2024,1.96,178
+Uttar Pradesh,Q2,29829,2023-08-01,4-Wheelers,2024,1.62,482
+Odisha,Q2,5745,2023-07-01,4-Wheelers,2024,2.33,134
+Punjab,Q2,12368,2023-09-01,4-Wheelers,2024,0.67,83
+Bihar,Q2,5189,2023-07-01,4-Wheelers,2024,1.12,58
+DNH and DD,Q2,468,2023-09-01,4-Wheelers,2024,1.28,6
+Himachal Pradesh,Q2,3956,2023-07-01,4-Wheelers,2024,0.3,12
+Uttar Pradesh,Q2,29087,2023-09-01,4-Wheelers,2024,1.64,476
+Andhra Pradesh,Q2,7397,2023-08-01,4-Wheelers,2024,1.41,104
+Karnataka,Q2,24184,2023-09-01,4-Wheelers,2024,3.9,942
+Jammu and Kashmir,Q2,4430,2023-09-01,4-Wheelers,2024,0.2,9
+Tamil Nadu,Q2,22461,2023-09-01,4-Wheelers,2024,2.42,543
+Delhi,Q2,15852,2023-08-01,4-Wheelers,2024,2.78,440
+Manipur,Q2,458,2023-08-01,4-Wheelers,2024,1.31,6
+Chandigarh,Q2,1491,2023-09-01,4-Wheelers,2024,3.62,54
+Assam,Q2,8078,2023-09-01,4-Wheelers,2024,0.28,23
+Madhya Pradesh,Q2,11748,2023-09-01,4-Wheelers,2024,1.0,117
+Assam,Q2,7557,2023-08-01,4-Wheelers,2024,0.36,27
+Uttarakhand,Q2,4283,2023-08-01,4-Wheelers,2024,1.17,50
+Andaman & Nicobar Island,Q2,183,2023-08-01,4-Wheelers,2024,1.64,3
+Puducherry,Q2,912,2023-09-01,4-Wheelers,2024,1.1,10
+Punjab,Q2,10766,2023-07-01,4-Wheelers,2024,0.85,92
+DNH and DD,Q2,391,2023-07-01,4-Wheelers,2024,1.02,4
+Tamil Nadu,Q2,20553,2023-07-01,4-Wheelers,2024,3.07,630
+Karnataka,Q2,28235,2023-08-01,4-Wheelers,2024,4.24,1196
+Meghalaya,Q2,1139,2023-09-01,4-Wheelers,2024,0.26,3
+Andhra Pradesh,Q2,6820,2023-07-01,4-Wheelers,2024,2.3,157
+Odisha,Q2,6354,2023-09-01,4-Wheelers,2024,1.59,101
+Chhattisgarh,Q2,3346,2023-07-01,4-Wheelers,2024,2.81,94
+Odisha,Q2,6282,2023-08-01,4-Wheelers,2024,2.32,146
+Goa,Q2,2801,2023-09-01,4-Wheelers,2024,2.46,69
+Maharashtra,Q2,40169,2023-08-01,4-Wheelers,2024,2.66,1070
+Andhra Pradesh,Q2,7044,2023-09-01,4-Wheelers,2024,0.84,59
+Goa,Q2,2177,2023-08-01,4-Wheelers,2024,4.5,98
+Andaman & Nicobar Island,Q2,163,2023-07-01,4-Wheelers,2024,1.84,3
+Bihar,Q2,5334,2023-08-01,4-Wheelers,2024,0.99,53
+Tripura,Q2,466,2023-08-01,4-Wheelers,2024,0.43,2
+Tripura,Q2,578,2023-07-01,4-Wheelers,2024,0.35,2
+Puducherry,Q2,955,2023-08-01,4-Wheelers,2024,1.47,14
+Rajasthan,Q2,16356,2023-09-01,4-Wheelers,2024,2.29,375
+Madhya Pradesh,Q2,10811,2023-07-01,4-Wheelers,2024,1.28,138
+Chandigarh,Q2,2326,2023-07-01,4-Wheelers,2024,3.05,71
+Chhattisgarh,Q2,3993,2023-09-01,4-Wheelers,2024,2.08,83
+Puducherry,Q2,809,2023-07-01,4-Wheelers,2024,0.87,7
+Gujarat,Q2,36818,2023-09-01,4-Wheelers,2024,1.72,633
+Manipur,Q2,427,2023-07-01,4-Wheelers,2024,1.41,6
+Rajasthan,Q2,14786,2023-08-01,4-Wheelers,2024,2.68,396
+Tripura,Q2,470,2023-09-01,4-Wheelers,2024,0.64,3
+Kerala,Q2,14002,2023-07-01,4-Wheelers,2024,6.22,871
+Punjab,Q2,11493,2023-08-01,4-Wheelers,2024,0.65,75
+Haryana,Q2,24045,2023-09-01,4-Wheelers,2024,0.38,92
+Karnataka,Q2,95036,2023-07-01,2-Wheelers,2024,10.14,9632
+Andhra Pradesh,Q2,50877,2023-07-01,2-Wheelers,2024,2.68,1361
+Kerala,Q2,34948,2023-07-01,2-Wheelers,2024,11.27,3937
+Uttar Pradesh,Q2,143067,2023-09-01,2-Wheelers,2024,2.2,3141
+Assam,Q2,31641,2023-08-01,2-Wheelers,2024,0.46,147
+Rajasthan,Q2,76171,2023-08-01,2-Wheelers,2024,5.66,4313
+Odisha,Q2,45630,2023-09-01,2-Wheelers,2024,6.68,3049
+Andhra Pradesh,Q2,53014,2023-09-01,2-Wheelers,2024,2.62,1388
+Madhya Pradesh,Q2,73963,2023-08-01,2-Wheelers,2024,5.28,3907
+Tamil Nadu,Q2,128997,2023-08-01,2-Wheelers,2024,4.84,6246
+Punjab,Q2,35832,2023-09-01,2-Wheelers,2024,1.89,676
+Uttarakhand,Q2,12642,2023-09-01,2-Wheelers,2024,2.07,262
+Chandigarh,Q2,1813,2023-07-01,2-Wheelers,2024,7.39,134
+Goa,Q2,2877,2023-07-01,2-Wheelers,2024,17.97,517
+Meghalaya,Q2,1991,2023-09-01,2-Wheelers,2024,0.55,11
+Puducherry,Q2,3350,2023-09-01,2-Wheelers,2024,4.06,136
+Jammu and Kashmir,Q2,8604,2023-07-01,2-Wheelers,2024,1.35,116
+Meghalaya,Q2,2030,2023-07-01,2-Wheelers,2024,0.99,20
+Mizoram,Q2,1721,2023-07-01,2-Wheelers,2024,0.35,6
+Uttar Pradesh,Q2,146984,2023-08-01,2-Wheelers,2024,1.84,2710
+Kerala,Q2,48967,2023-09-01,2-Wheelers,2024,9.11,4461
+Odisha,Q2,36033,2023-08-01,2-Wheelers,2024,7.6,2737
+Himachal Pradesh,Q2,5403,2023-09-01,2-Wheelers,2024,1.26,68
+West Bengal,Q2,67367,2023-07-01,2-Wheelers,2024,0.76,509
+Kerala,Q2,49548,2023-08-01,2-Wheelers,2024,9.68,4798
+Mizoram,Q2,1561,2023-09-01,2-Wheelers,2024,0.38,6
+Andhra Pradesh,Q2,56399,2023-08-01,2-Wheelers,2024,2.78,1568
+Delhi,Q2,31468,2023-09-01,2-Wheelers,2024,6.36,2002
+Tamil Nadu,Q2,119322,2023-07-01,2-Wheelers,2024,4.89,5839
+Chhattisgarh,Q2,30725,2023-09-01,2-Wheelers,2024,7.09,2178
+Gujarat,Q2,98394,2023-07-01,2-Wheelers,2024,5.39,5300
+Punjab,Q2,34784,2023-08-01,2-Wheelers,2024,1.85,642
+Uttarakhand,Q2,13216,2023-07-01,2-Wheelers,2024,3.09,408
+Bihar,Q2,65102,2023-09-01,2-Wheelers,2024,1.38,900
+Manipur,Q2,846,2023-08-01,2-Wheelers,2024,0.95,8
+Meghalaya,Q2,2060,2023-08-01,2-Wheelers,2024,0.73,15
+Jammu and Kashmir,Q2,8372,2023-09-01,2-Wheelers,2024,1.35,113
+Uttarakhand,Q2,12790,2023-08-01,2-Wheelers,2024,2.85,364
+Madhya Pradesh,Q2,74064,2023-09-01,2-Wheelers,2024,4.43,3283
+Tamil Nadu,Q2,116071,2023-09-01,2-Wheelers,2024,4.46,5178
+DNH and DD,Q2,606,2023-08-01,2-Wheelers,2024,0.99,6
+Gujarat,Q2,87134,2023-08-01,2-Wheelers,2024,6.6,5755
+Jammu and Kashmir,Q2,8650,2023-08-01,2-Wheelers,2024,1.13,98
+Chhattisgarh,Q2,28753,2023-07-01,2-Wheelers,2024,5.51,1584
+Assam,Q2,32936,2023-09-01,2-Wheelers,2024,0.78,257
+Manipur,Q2,1145,2023-07-01,2-Wheelers,2024,0.52,6
+Rajasthan,Q2,76511,2023-07-01,2-Wheelers,2024,4.92,3763
+Assam,Q2,32074,2023-07-01,2-Wheelers,2024,0.52,168
+Gujarat,Q2,129851,2023-09-01,2-Wheelers,2024,5.55,7209
+Nagaland,Q2,531,2023-09-01,2-Wheelers,2024,0.19,1
+Himachal Pradesh,Q2,5345,2023-08-01,2-Wheelers,2024,1.2,64
+Himachal Pradesh,Q2,5450,2023-07-01,2-Wheelers,2024,0.73,40
+Mizoram,Q2,1908,2023-08-01,2-Wheelers,2024,0.21,4
+Haryana,Q2,44459,2023-09-01,2-Wheelers,2024,0.72,321
+Tripura,Q2,3157,2023-09-01,2-Wheelers,2024,0.54,17
+Punjab,Q2,33588,2023-07-01,2-Wheelers,2024,1.32,445
+Tripura,Q2,3154,2023-08-01,2-Wheelers,2024,1.05,33
+Karnataka,Q2,106981,2023-09-01,2-Wheelers,2024,9.9,10590
+Tripura,Q2,2942,2023-07-01,2-Wheelers,2024,0.2,6
+Madhya Pradesh,Q2,69937,2023-07-01,2-Wheelers,2024,2.82,1971
+DNH and DD,Q2,732,2023-09-01,2-Wheelers,2024,1.64,12
+Maharashtra,Q2,126943,2023-07-01,2-Wheelers,2024,7.74,9822
+Chhattisgarh,Q2,28699,2023-08-01,2-Wheelers,2024,7.28,2088
+Goa,Q2,4098,2023-08-01,2-Wheelers,2024,16.81,689
+West Bengal,Q2,64154,2023-08-01,2-Wheelers,2024,0.8,511
+Bihar,Q2,58346,2023-08-01,2-Wheelers,2024,1.22,713
+Nagaland,Q2,599,2023-07-01,2-Wheelers,2024,0.17,1
+Haryana,Q2,38102,2023-08-01,2-Wheelers,2024,1.05,399
+Haryana,Q2,15523,2023-07-01,2-Wheelers,2024,0.98,152
+West Bengal,Q2,58361,2023-09-01,2-Wheelers,2024,0.84,489
+Chandigarh,Q2,1789,2023-08-01,2-Wheelers,2024,6.99,125
+Rajasthan,Q2,81056,2023-09-01,2-Wheelers,2024,5.35,4336
+Jharkhand,Q2,31209,2023-09-01,2-Wheelers,2024,1.68,524
+Delhi,Q2,31269,2023-07-01,2-Wheelers,2024,6.61,2068
+Puducherry,Q2,4141,2023-08-01,2-Wheelers,2024,4.76,197
+Maharashtra,Q2,134556,2023-09-01,2-Wheelers,2024,9.25,12444
+Karnataka,Q2,101545,2023-08-01,2-Wheelers,2024,9.57,9720
+Puducherry,Q2,3909,2023-07-01,2-Wheelers,2024,4.83,189
+DNH and DD,Q2,856,2023-07-01,2-Wheelers,2024,0.58,5
+Jharkhand,Q2,27909,2023-08-01,2-Wheelers,2024,1.63,455
+Chandigarh,Q2,1868,2023-09-01,2-Wheelers,2024,7.17,134
+Bihar,Q2,69583,2023-07-01,2-Wheelers,2024,0.88,614
+Ladakh,Q2,117,2023-07-01,2-Wheelers,2024,0.85,1
