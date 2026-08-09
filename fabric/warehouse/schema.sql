@@ -1,0 +1,1 @@
+CREATE SCHEMA atliq_motor;
